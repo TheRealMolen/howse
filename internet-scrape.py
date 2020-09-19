@@ -38,10 +38,10 @@ def refresh_data():
     errors = ''
 
     # scrape zoopla...
-    # zplexisting = load_existing(ZOOPLA_FILE)
-    # zplproperties,zplnew = zoopla.get_all_properties(ZOOPLA_QUERY,zplexisting)
-    # save_json(ZOOPLA_FILE, zplproperties)
-    # save_json(ZOOPLA_RECENT_FILE, zplnew)
+    zplexisting = load_existing(ZOOPLA_FILE)
+    zplproperties,zplnew = zoopla.get_all_properties(ZOOPLA_QUERY,zplexisting)
+    save_json(ZOOPLA_FILE, zplproperties)
+    save_json(ZOOPLA_RECENT_FILE, zplnew)
  
     # scrape rightmove...
     rmvexisting = load_existing(RTMOVE_FILE)
