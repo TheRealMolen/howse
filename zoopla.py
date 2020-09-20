@@ -4,10 +4,10 @@ import html
 import re
 import requests
 
-import postcode
+import map, postcode
 
 
-def fetch_details(url):
+def fetch_details(url, area=None):
     r = requests.get(url)
     if r.status_code != 200:
         raise Error('couldn\'t load details url ' + url)
@@ -31,6 +31,11 @@ def fetch_details(url):
         mapSrc = mapTag.attrs['data-src']
         args = html.unescape(mapSrc)
         details['longlat'] = args.split('center=')[1].split('&')[0]
+        
+        if area is not None:
+            if not map.is_latlong_inside_path(area, details['longlat']):
+                details['outsideArea'] = True
+                return details
     else:
         print('...unable to find longlat from', url)
 
@@ -69,7 +74,7 @@ def fetch_details(url):
 
 max_pagenum = -1
 
-def get_one_page(urlstem, pagenum, existing):
+def get_one_page(urlstem, pagenum, area, existing):
     url = urlstem + '&page_size=100'
     if pagenum != 1:
         url += '&pn=%d' % pagenum
@@ -115,6 +120,10 @@ def get_one_page(urlstem, pagenum, existing):
                 print('skipping "'+description+'" cos its too close to people...')
                 properties.append(dict(id=id, skipped=True, reason='people'))  
                 continue
+            if 'plot ' in description or 'land ' in description:
+                print('skipping "'+description+'" cos its not built...')
+                properties.append(dict(id=id, skipped=True, reason='unbuilt'))
+                continue
 
             price = listing.find(class_='listing-results-price').text.strip()
 
@@ -140,10 +149,6 @@ def get_one_page(urlstem, pagenum, existing):
             rooms = add_rooms(rooms, 'reception')
 
             address = listing.find(class_='listing-results-address').text.strip()
-            # if 'wadebridge' in address.lower() or 'austell' in address.lower():
-            #     print('skipping "'+description+'" because its too far away: ' + address) 
-            #     properties.append(dict(id=id, skipped=True, reason='location'))
-            #     continue
 
             detailsUrl = None
             for a in listing.find_all('a', class_='listing-results-price'):
@@ -154,7 +159,11 @@ def get_one_page(urlstem, pagenum, existing):
 
             details = '--missing details--'
             if detailsUrl is not None:
-                details = fetch_details(detailsUrl)
+                details = fetch_details(detailsUrl, area)
+                if 'outsideArea' in details:
+                    print('skipping "'+address+'" @ ' + detailsUrl + ' because it\'s outside the search area')
+                    properties.append(dict(id=id, skipped=True, reason='location'))
+                    continue                       
                 if 'maxSpeed' in details and details['maxSpeed'] < 50:
                     print('skipping "'+description+'" @ ' + detailsUrl + ' because its internets are too slow:',details['maxSpeed'])
                     properties.append(dict(id=id, skipped=True, reason='internet'))
@@ -176,12 +185,12 @@ def get_one_page(urlstem, pagenum, existing):
     return properties,newproperties
 
 
-def get_all_properties(url,existing):
+def get_all_properties(url, area=None, existing={}):
     global max_pagenum
     max_pagenum = -1
-    properties,newproperties = get_one_page(url, 1, existing)
+    properties,newproperties = get_one_page(url, 1, area, existing)
     for pn in range(2, max_pagenum):
-        all,new = get_one_page(url, pn, existing)
+        all,new = get_one_page(url, pn, area, existing)
         properties += all
         newproperties += new
 

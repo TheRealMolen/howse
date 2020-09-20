@@ -1,15 +1,18 @@
-import json
-
-import json
-import zoopla, rightmove, report
+import json, re
+import map, zoopla, rightmove, report
 
 ZOOPLA_QUERY = r'https://www.zoopla.co.uk/for-sale/property/truro/?beds_min=3&is_auction=false&is_retirement_home=false&is_shared_ownership=false&new_homes=exclude&price_max=650000&price_min=400000&q=Truro%2C%20Cornwall&radius=20&results_sort=newest_listings&search_source=home'
-ZOOPLA_FILE = 'truro20mi_zpl.json'
-ZOOPLA_RECENT_FILE = 'truro20mi_zpl_recent.json'
+ZOOPLA_FILE = 'truroa30_zpl.json'
+ZOOPLA_RECENT_FILE = 'truroa30_zpl_recent.json'
 
-RTMOVE_QUERY = r'https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E1365&minBedrooms=3&maxPrice=650000&minPrice=400000&radius=20.0&sortType=6&propertyTypes=bungalow%2Cdetached%2Cpark-home&includeSSTC=false&mustHave=parking&dontShow=newHome%2Cretirement%2CsharedOwnership&furnishTypes=&keywords='
-RTMOVE_FILE = 'truro20mi_rmv.json'
-RTMOVE_RECENT_FILE = 'truro20mi_rmv_recent.json'
+RTMOVE_QUERY = r'https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=USERDEFINEDAREA%5E%7B%22id%22%3A6179886%7D&minBedrooms=3&maxPrice=650000&minPrice=400000&sortType=6&propertyTypes=bungalow%2Cdetached%2Cpark-home&includeSSTC=false&mustHave=parking&dontShow=newHome%2Cretirement%2CsharedOwnership&furnishTypes=&keywords='
+RTMOVE_FILE = 'truroa30_rmv.json'
+RTMOVE_RECENT_FILE = 'truroa30_rmv_recent.json'
+
+
+# TODO: this can probably be scraped from RTMOVE_QUERY -- although might require login 
+SEARCH_AREA_STATICMAP = r'https://maps.google.com/maps/api/staticmap?center=50.28508,-5.15066&size=75x75&path=color%3A0x000099FF%7Cweight%3A2%7Cfillcolor%3A0x00009977%7Cenc%3A%7BwgqHlue%5EsyDs%60EeoCoyCgjAgYaV%7B_BoWs%60D%7BeBkwBwWq%7BBsdCj%60Bz%60%40ngDq%7DH_q%40qbFyxQgjGlGctMopFgl%40%7DyLe_HdpBdsCrkO%60yK%7CuIl%7EKp%7CAvxDneOjtEhbI%7Br%40pjMloBf_Jh%7DFydGdoGniWmk%40r_Mv%7BG%60oTheIsrHeo%40alRynEmkT%7Cq%40imIoWcmN&scale=1&client=gme-rightmove&sensor=false&channel=defineyourarea&signature=wpPqpBSWAl3-biT6zh51NNv92no='
+SEARCH_AREA = map.extract_path_from_staticmap(SEARCH_AREA_STATICMAP)
 
 
 def load_json(infilename):
@@ -35,14 +38,12 @@ def load_existing(infilename):
 
 
 def refresh_data():
-    errors = ''
-
-    # scrape zoopla...
+    # scrape zoopla... NB. need to pass search area into zoopla because we enforce that outside
     zplexisting = load_existing(ZOOPLA_FILE)
-    zplproperties,zplnew = zoopla.get_all_properties(ZOOPLA_QUERY,zplexisting)
+    zplproperties,zplnew = zoopla.get_all_properties(ZOOPLA_QUERY, SEARCH_AREA, zplexisting)
     save_json(ZOOPLA_FILE, zplproperties)
     save_json(ZOOPLA_RECENT_FILE, zplnew)
- 
+
     # scrape rightmove...
     rmvexisting = load_existing(RTMOVE_FILE)
     rmvproperties,rmvnew = rightmove.get_all_properties(RTMOVE_QUERY,rmvexisting)
@@ -50,17 +51,52 @@ def refresh_data():
     save_json(RTMOVE_RECENT_FILE, rmvnew)
   
 
+
+def get_prop_key(property):
+    rawprice = re.search(r'£([0-9,]+)', property['price']).group(1).replace(',','')
+    rawblurb = re.sub(r'\s', '', property['blurb'][:100]).lower()
+    key = rawprice + '#' + rawblurb
+    return key
+
+def collapse_dupes(properties):
+    prop_by_key = {}
+    collapsed = []
+    for prop in properties:
+        if prop['id'][0] != 'R':
+            continue
+        prop_by_key[get_prop_key(prop)] = prop
+        collapsed.append(prop)
+
+    for prop in properties:
+        if prop['id'][0] == 'R':
+            continue
+        key = get_prop_key(prop)
+        if key in prop_by_key:
+            if 'dupes' not in prop_by_key[key]:
+                prop_by_key[key]['dupes'] = [prop]
+            else:
+                prop_by_key[key]['dupes'].append(prop)
+        
+        else:
+            collapsed.append(prop)
+
+    return collapsed
+
+
 def gen_report_from_json(infiles, desc, outfilename):
     properties = []
     for infile in infiles:
         props = load_json(infile)
         properties += [p for p in props if 'skipped' not in p]
 
-    properties.sort(key=lambda p: p['details']['firstlisted'], reverse=True)
+    uniqproperties = collapse_dupes(properties)
+    print('collapsed', len(properties) - len(uniqproperties), '/', len(properties), 'dupes')
+
+    uniqproperties.sort(key=lambda p: p['details']['firstlisted'], reverse=True)
     
-    html = report.gen_html(properties)
+    html = report.gen_html(uniqproperties)
     
-    print("Found a total of %d %s properties" % (len(properties),desc))
+    print("Found a total of %d %s properties" % (len(uniqproperties),desc))
     with open(outfilename, 'wt', encoding='utf-8') as outFile:
         outFile.write(html)
 

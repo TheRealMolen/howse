@@ -14,7 +14,7 @@ def gen_html(properties):
         <div class="container">
             <div class="jumbotron">
                 <h1 class="display-4">maybe howses by the sea</h1>
-            </div>
+            </div>\n
     """
 
     for prop in properties:
@@ -23,7 +23,7 @@ def gen_html(properties):
         html += ' <div class="col-8">'
         html += '  <h3><a href="%s" target="_blank">%s</a></h3>' % (prop['url'], prop['description'])
         html += '  <h2>%s</h2>' % prop['price']
-        html += '  <h5>%s</h5>' % prop['address'] if 'address' in prop else prop['details']['address']
+        html += '  <h5>%s</h5>' % (prop['address'] if 'address' in prop else prop['details']['address'])
         if 'rooms' in prop:
             html += '  <h5>%s</h5>' % prop['rooms']
         html += '  <h5 class="d-inline-block">max %sMbps</h5>' % (prop['details']['maxSpeed'] if 'maxSpeed' in prop['details'] else '<span class="p-1 bg-warning text-white">??</span>')
@@ -32,9 +32,14 @@ def gen_html(properties):
         firstlisted = firstlisted.strftime('%b %Y')
         html += '  <h5 class="d-inline-block pl-4"><small>first listed </small>%s</h5>' % firstlisted
         html += '  <p>%s</p>' % prop['blurb']
-        html += '  <small><small>%s</small></small>' % prop['id']
+        html += '  <small>%s</small>' % prop['id']
+        if 'dupes' in prop:
+            html += '<span class="ml-4">also listed at '
+            for dupe in prop['dupes']:
+                html += '<a href="%s" target="_blank" class="ml-2">%s</a>' % (dupe['url'],dupe['url'])
+            html += '</span>'
         html += ' </div>'
-        html += '</div>'
+        html += '</div>\n'
 
     html += """
         </div>
@@ -50,7 +55,7 @@ def gen_html(properties):
 if __name__ == '__main__':
     import json
     properties = []
-    with open('truro20mi_rmv.json') as infile:
+    with open('truroa30_rmv.json') as infile:
         properties = json.load(infile)
     html = gen_html(properties)
     with open('maybe-howses-rmv.html', 'wt', encoding='utf-8') as outFile:

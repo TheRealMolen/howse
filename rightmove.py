@@ -105,6 +105,10 @@ def get_one_page(url, pagenum, existing):
             print('skipping "'+description+'" cos its too close to people...')
             properties.append(dict(id=id, skipped=True, reason='people'))
             continue
+        if 'plot ' in description or 'land ' in description:
+            print('skipping "'+description+'" cos its not built...')
+            properties.append(dict(id=id, skipped=True, reason='unbuilt'))
+            continue
 
         displayPrice = listing['price']['displayPrices'][0]
         price = displayPrice['displayPrice']
@@ -116,10 +120,6 @@ def get_one_page(url, pagenum, existing):
         blurb = listing['summary'].capitalize()
 
         address = listing['displayAddress']
-        # if 'wadebridge' in address.lower() or 'austell' in address.lower():
-        #     print('skipping "'+description+'" because its too far away: ' + address)
-        #     properties.append(dict(id=id, skipped=True, reason='location'))
-        #     continue
 
         detailsUrl = listing['propertyUrl']
         if 'http' not in detailsUrl:
