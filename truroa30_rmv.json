@@ -356,9 +356,20 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-84435406.html"
   },
   {
-    "id": "R95626649",
-    "reason": "internet",
-    "skipped": true
+    "address": "Perranwell Station, Nr. Truro, Cornwall",
+    "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
+    "description": "3 bedroom detached house for sale",
+    "details": {
+      "address": "Perranwell Station, Nr. Truro, Cornwall",
+      "firstlisted": "2020-09-15T00:00:00",
+      "longlat": "50.215430,-5.110929",
+      "maxSpeed": 80,
+      "postcode": "TR3 7NL"
+    },
+    "id": "R73265103",
+    "price": "\u00a3650,000 Offers in Region of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
   },
   {
     "address": "Perranwell Station, Truro",
@@ -723,9 +734,20 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-71472807.html"
   },
   {
-    "id": "R95626649",
-    "reason": "internet",
-    "skipped": true
+    "address": "Perranwell Station, Nr. Truro, Cornwall",
+    "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
+    "description": "3 bedroom detached house for sale",
+    "details": {
+      "address": "Perranwell Station, Nr. Truro, Cornwall",
+      "firstlisted": "2020-09-15T00:00:00",
+      "longlat": "50.215430,-5.110929",
+      "maxSpeed": 80,
+      "postcode": "TR3 7NL"
+    },
+    "id": "R73265103",
+    "price": "\u00a3650,000 Offers in Region of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
   },
   {
     "address": "Keeble Park, Perranwell Station",
@@ -843,54 +865,6 @@
     "price": "\u00a3495,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/82236508/35507_29812519_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-82236508.html"
-  },
-  {
-    "address": "Treloyhan Manor, St. Ives, Cornwall",
-    "blurb": "A unique opportunity to buy a serviced plot for a large home and garden within the beautiful grounds of treloyhan manor. superb views and large lawned and wooded gardens. viewing of site & plots is strictly by appointment through humberts.",
-    "description": "plot for sale",
-    "details": {
-      "address": "Treloyhan Manor, St. Ives, Cornwall",
-      "firstlisted": "2020-08-01T00:00:00",
-      "longlat": "50.204077,-5.472182",
-      "maxSpeed": 80,
-      "postcode": "TR26 2AL"
-    },
-    "id": "R95544797",
-    "price": "\u00a3425,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/12k/11015/95544797/11015_TRU190215_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/commercial-property-for-sale/property-95544797.html"
-  },
-  {
-    "address": "Treloyhan Manor, St. Ives, Cornwall",
-    "blurb": "A unique opportunity to buy a serviced plot for a large home and garden within the beautiful grounds of treloyhan manor. superb views and large lawned and wooded gardens. viewing of site & plots is strictly by appointment through humberts.",
-    "description": "plot for sale",
-    "details": {
-      "address": "Treloyhan Manor, St. Ives, Cornwall",
-      "firstlisted": "2020-08-01T00:00:00",
-      "longlat": "50.204077,-5.472182",
-      "maxSpeed": 80,
-      "postcode": "TR26 2AL"
-    },
-    "id": "R95544794",
-    "price": "\u00a3425,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/12k/11015/95544794/11015_TRU190214_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/commercial-property-for-sale/property-95544794.html"
-  },
-  {
-    "address": "Treloyhan Manor, St. Ives, Cornwall",
-    "blurb": "A unique opportunity to buy a serviced plot for a large home and garden within the beautiful grounds of treloyhan manor. superb views and large lawned and wooded gardens. viewing of site & plots is strictly by appointment through humberts.",
-    "description": "plot for sale",
-    "details": {
-      "address": "Treloyhan Manor, St. Ives, Cornwall",
-      "firstlisted": "2020-08-01T00:00:00",
-      "longlat": "50.204077,-5.472182",
-      "maxSpeed": 80,
-      "postcode": "TR26 2AL"
-    },
-    "id": "R95544782",
-    "price": "\u00a3450,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/12k/11015/95544782/11015_TRU190211_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/commercial-property-for-sale/property-95544782.html"
   },
   {
     "address": "Gloweth, Truro",

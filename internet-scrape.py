@@ -61,14 +61,21 @@ def get_prop_key(property):
 def collapse_dupes(properties):
     prop_by_key = {}
     collapsed = []
+    collapsedids = set()
     for prop in properties:
         if prop['id'][0] != 'R':
             continue
-        prop_by_key[get_prop_key(prop)] = prop
+        if prop['id'] in collapsedids:
+            continue
+        key = get_prop_key(prop)
+        prop_by_key[key] = prop
         collapsed.append(prop)
+        collapsedids.add(prop['id'])
 
     for prop in properties:
         if prop['id'][0] == 'R':
+            continue
+        if prop['id'] in collapsedids:
             continue
         key = get_prop_key(prop)
         if key in prop_by_key:
@@ -79,6 +86,7 @@ def collapse_dupes(properties):
         
         else:
             collapsed.append(prop)
+            collapsedids.add(prop['id'])
 
     return collapsed
 

@@ -34,10 +34,10 @@ def gen_html(properties):
         html += '  <p>%s</p>' % prop['blurb']
         html += '  <small>%s</small>' % prop['id']
         if 'dupes' in prop:
-            html += '<span class="ml-4">also listed at '
+            html += '<small class="ml-4">also listed at '
             for dupe in prop['dupes']:
                 html += '<a href="%s" target="_blank" class="ml-2">%s</a>' % (dupe['url'],dupe['url'])
-            html += '</span>'
+            html += '</small>'
         html += ' </div>'
         html += '</div>\n'
 
