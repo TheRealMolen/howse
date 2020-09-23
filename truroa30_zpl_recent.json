@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "blurb": "Amazing location - four bed detached family home A superbly presented modern four-bedroom house in the highly sought-after location of the seaward side of Carbis Bay, this lovely property offers spacious accommodation, low maintenance gardens to the ...",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Nampara Close, Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.196059,-5.458412",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56338347",
+    "price": "\u00a3635,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "3 bedrooms, 4 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/84660cc46c5d660f1dce46805caa7fc7858a6edd.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56338347"
+  }
+]

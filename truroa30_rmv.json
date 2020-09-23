@@ -1,19 +1,88 @@
 [
   {
-    "address": "Perranwell Station, Nr. Truro, Cornwall",
-    "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
+    "address": "Roskear Croft",
+    "blurb": "Millerson are proud to bring to the market this delightful three bedroom plus 1-2 bed annexe. this very private barn conversion lies within the most sublime attractive gardens of approx. 1/2 acre with a further three acres of paddock situated in the attractive rural hamlet of roskear croft over...",
+    "description": "4 bedroom barn conversion for sale",
+    "details": {
+      "address": "Roskear Croft",
+      "firstlisted": "2020-08-11T00:00:00",
+      "longlat": "50.229136,-5.296178",
+      "maxSpeed": 1000,
+      "postcode": "TR14 0AZ"
+    },
+    "id": "R83347855",
+    "price": "\u00a3650,000 Offers in Excess of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/40k/39689/83347855/39689_102915041302_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-83347855.html"
+  },
+  {
+    "address": "Nampara Close, Carbis Bay, St. Ives, Cornwall",
+    "blurb": "Amazing location - four bed detached family home a superbly presented modern four-bedroom house in the highly sought-after location of the seaward side of carbis bay, this lovely property offers spacious accommodation, low maintenance gardens to the rear and parking.",
     "description": "3 bedroom detached house for sale",
     "details": {
-      "address": "Perranwell Station, Nr. Truro, Cornwall",
-      "firstlisted": "2020-09-15T00:00:00",
-      "longlat": "50.215430,-5.110929",
-      "maxSpeed": 80,
-      "postcode": "TR3 7NL"
+      "address": "Nampara Close, Carbis Bay, St. Ives, Cornwall",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.196150,-5.458339",
+      "maxSpeed": 58,
+      "postcode": "TR26 2LT"
     },
-    "id": "R73265103",
-    "price": "\u00a3650,000 Offers in Region of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
+    "id": "R97572554",
+    "price": "\u00a3635,000 Offers in Excess of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/44k/43067/97572554/43067_CSD194051_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97572554.html"
+  },
+  {
+    "address": "Carharrack, Redruth",
+    "blurb": "\u2018hidden cottage\u2019, as the name suggests is tucked away from passing traffic and offers a high degree of privacy yet is still within close proximity to the centre of carharrack village. approached from the rear, a portico entrance leads to the hallway and from here there is a well a...",
+    "description": "3 bedroom character property for sale",
+    "details": {
+      "address": "Carharrack, Redruth",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.232410,-5.178322",
+      "maxSpeed": 80,
+      "postcode": "TR16 5RB"
+    },
+    "id": "R85045489",
+    "price": "\u00a3425,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/85045489/168611_10485508_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-85045489.html"
+  },
+  {
+    "address": "Scorrier, Redruth",
+    "blurb": "Situated in a sylvan setting, some six miles west of truro in the village of scorrier, this detached character cottage sits within professionally designed gardens of approximately 0.6 acres. well presented throughout there are four double size bedrooms, two of which have en-suite showers. ...",
+    "description": "4 bedroom character property for sale",
+    "details": {
+      "address": "Scorrier, Redruth",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.253380,-5.195035",
+      "maxSpeed": 80,
+      "postcode": "TR16 5BS"
+    },
+    "id": "R85043200",
+    "price": "\u00a3540,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/85043200/168611_10481396_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-85043200.html"
+  },
+  {
+    "address": "Rye Hill, Ponsanooth, Truro",
+    "blurb": "***detached non estate home*** elevated position with far reaching views*** building plot for separate dwelling***modern contemporary living throughout*** superb open plan kitchen dining room with wood burning stove*** bi folding doors from the dining area to the full width terrace*** open plan ...",
+    "description": "3 bedroom detached bungalow for sale",
+    "details": {
+      "address": "Rye Hill, Ponsanooth, Truro",
+      "firstlisted": "2020-07-25T00:00:00",
+      "longlat": "50.195522,-5.143455",
+      "maxSpeed": 78,
+      "postcode": "TR3 7ES"
+    },
+    "id": "R82691230",
+    "price": "\u00a3525,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61588/82691230/61588_29842806_IMG_25_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-82691230.html"
+  },
+  {
+    "id": "R84829663",
+    "reason": "internet",
+    "skipped": true
   },
   {
     "id": "R73400199",
@@ -117,6 +186,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-97334213.html"
   },
   {
+    "address": "St. Ives",
+    "blurb": "This stunning reverse level home offers 3 double bedrooms (master ensuite) conveniently located away from the centre of st ives yet within walking distance of the town and beaches. the impressive open plan living area offers high vaulted exposed a-frame ceiling, stunning kitchen and balcony. ampl...",
+    "description": "3 bedroom link detached house for sale",
+    "details": {
+      "address": "St. Ives",
+      "firstlisted": "2020-09-17T00:00:00",
+      "longlat": "50.200734,-5.475181",
+      "maxSpeed": 78,
+      "postcode": "TR26 2AU"
+    },
+    "id": "R97351916",
+    "price": "\u00a3575,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/40k/39725/97351916/39725_102915041728_IMG_34_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97351916.html"
+  },
+  {
     "address": "Stret Rosemelin, Truro",
     "blurb": "Impressive, detached georgian style 3 double bedroom home within this sought after duchy of cornwall development. the property enjoys a fantastic postion on the development overlooking the central walled gardens of the development. offering private gated drive for 2 cars, generous south facing ga...",
     "description": "3 bedroom detached house for sale",
@@ -202,7 +287,7 @@
     "skipped": true
   },
   {
-    "id": "R84723208",
+    "id": "R85031722",
     "reason": "internet",
     "skipped": true
   },
@@ -260,6 +345,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-73104444.html"
   },
   {
+    "address": "Chapel Hill, Truro",
+    "blurb": "Substantial detached city house a large, well proportioned 1930s detached house offering spacious, family size accommodation over three storeys. entrance hall, sitting room, dining room, kitchen, rear entrance vestibule with utility space, sun lounge, loggia and cloakroom with bathroom ...",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Chapel Hill, Truro",
+      "firstlisted": "2020-09-18T00:00:00",
+      "longlat": "50.261009,-5.064610",
+      "maxSpeed": 1000,
+      "postcode": "TR1 3BH"
+    },
+    "id": "R73376640",
+    "price": "\u00a3650,000 Guide Price",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/5k/4758/73376640/4758_30020353_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73376640.html"
+  },
+  {
     "address": "Perranwell Station, Truro",
     "blurb": " the greenwith is a high specification four bedroom detached home. superb living space including a lounge with woodburner, study and open plan kitchen/dining room. beautiful incorporation of natural materials. driveway, double garage & large garden.",
     "description": "4 bedroom detached house for sale",
@@ -308,22 +409,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-84529402.html"
   },
   {
-    "address": "Hendra, Stithians, Truro",
-    "blurb": "This is an excellent opportunity to purchase a grade ii listed detached house set in approximately two acres of grounds bordering a stream and ancient woodland. the property offers four bedrooms, three reception rooms, a kitchen/breakfast room and two bathrooms.",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Hendra, Stithians, Truro",
-      "firstlisted": "2020-09-07T00:00:00",
-      "longlat": "50.190052,-5.188858",
-      "maxSpeed": 73,
-      "postcode": "TR3 7AN"
-    },
-    "id": "R73024905",
-    "price": "\u00a3495,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/92k/91925/73024905/91925_29976953_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73024905.html"
-  },
-  {
     "address": "College Way, Truro",
     "blurb": "Four bedroom detached family home for sale in college way, gloweth, truro",
     "description": "4 bedroom detached house for sale",
@@ -354,22 +439,6 @@
     "price": "\u00a3425,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/51k/50967/84435406/50967_4866845_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-84435406.html"
-  },
-  {
-    "address": "Perranwell Station, Nr. Truro, Cornwall",
-    "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
-    "description": "3 bedroom detached house for sale",
-    "details": {
-      "address": "Perranwell Station, Nr. Truro, Cornwall",
-      "firstlisted": "2020-09-15T00:00:00",
-      "longlat": "50.215430,-5.110929",
-      "maxSpeed": 80,
-      "postcode": "TR3 7NL"
-    },
-    "id": "R73265103",
-    "price": "\u00a3650,000 Offers in Region of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
   },
   {
     "address": "Perranwell Station, Truro",
@@ -439,22 +508,6 @@
     "price": "\u00a3575,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/17k/16194/96620036/16194_CHP200049_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-96620036.html"
-  },
-  {
-    "address": "Connerton Meadow, Greenbank, Connor Downs, Hayle",
-    "blurb": "Modern 4/5 bedroom property in connor downs situated in the popular village of connor downs, this modern detached 4/5 bedroom (master en-suite) property offers well sized family accommodation, that is well presented with open plan kitchen/diner and lounge with wood burning stove. there ...",
-    "description": "5 bedroom detached house for sale",
-    "details": {
-      "address": "Connerton Meadow, Greenbank, Connor Downs, Hayle",
-      "firstlisted": "2020-08-27T00:00:00",
-      "longlat": "50.204825,-5.367870",
-      "maxSpeed": 1000,
-      "postcode": "TR27 5DA"
-    },
-    "id": "R96590633",
-    "price": "\u00a3435,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/69k/68065/96590633/68065_HYL200087_IMG_12_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-96590633.html"
   },
   {
     "id": "R72798729",
@@ -558,22 +611,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-72612882.html"
   },
   {
-    "address": "Tinney Drive, Truro, TR1",
-    "blurb": "Situated in the ever popular beechwood park development is this four bedroom detached family home. the property is in the favoured style and has been much improved by the present vendor with a large kitchen/dining room and additional downstairs bedroom. in addition to this all of the bathrooms ha...",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Tinney Drive, Truro, TR1",
-      "firstlisted": "2019-07-29T00:00:00",
-      "longlat": "50.267704,-5.031621",
-      "maxSpeed": 1000,
-      "postcode": "TR1 1AT"
-    },
-    "id": "R73199389",
-    "price": "\u00a3400,000 Offers Over",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/73199389/151103_788186-1_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73199389.html"
-  },
-  {
     "address": "Kerensa Gardens, Goonown",
     "blurb": "A very well presented 3 / 4 bedroom family home, located in the small, convenient development of kerensa gardens.",
     "description": "4 bedroom detached house for sale",
@@ -654,6 +691,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-95991734.html"
   },
   {
+    "address": "Roskear Croft",
+    "blurb": "Millerson are proud to bring to the market this delightful three bedroom plus 1-2 bed annexe. this very private barn conversion lies within the most sublime attractive gardens of approx. 1/2 acre with a further three acres of paddock situated in the attractive rural hamlet of roskear croft over...",
+    "description": "4 bedroom barn conversion for sale",
+    "details": {
+      "address": "Roskear Croft",
+      "firstlisted": "2020-08-11T00:00:00",
+      "longlat": "50.229136,-5.296178",
+      "maxSpeed": 1000,
+      "postcode": "TR14 0AZ"
+    },
+    "id": "R83347855",
+    "price": "\u00a3650,000 Offers in Excess of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/40k/39689/83347855/39689_102915041302_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-83347855.html"
+  },
+  {
     "address": "Noweth Meynek, Carbis Bay, St Ives",
     "blurb": "1 noweth meynek is a new build, individually designed and spacious detached home. the property has been built to exacting standards with a modern and stylish finish. the accommodation comprises on the ground floor a double height entrance hall, an open plan living room with french doors opening ...",
     "description": "3 bedroom detached house for sale",
@@ -670,6 +723,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-81958181.html"
   },
   {
+    "address": "Scorrier, Redruth",
+    "blurb": "Situated in a sylvan setting, some six miles west of truro in the village of scorrier, this detached character cottage sits within professionally designed gardens of approximately 0.6 acres. well presented throughout there are four double size bedrooms, two of which have en-suite showers. ...",
+    "description": "4 bedroom character property for sale",
+    "details": {
+      "address": "Scorrier, Redruth",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.253380,-5.195035",
+      "maxSpeed": 80,
+      "postcode": "TR16 5BS"
+    },
+    "id": "R85043200",
+    "price": "\u00a3540,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/85043200/168611_10481396_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-85043200.html"
+  },
+  {
     "address": "Vicarage Lane, St. Ives",
     "blurb": "An extremely well presented and immaculately looked after 4 bedroom detached home located in one of the most sought after roads within the popular estuary village of lelant. offering spacious accommodation internally including a large master bedroom en-suite, ample gated parking, garage and medit...",
     "description": "4 bedroom detached house for sale",
@@ -684,22 +753,6 @@
     "price": "\u00a3595,000 Offers in Region of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35496/83265250/35496_9838412_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83265250.html"
-  },
-  {
-    "address": "St. Ives Road, Carbis Bay, St. Ives, Cornwall",
-    "blurb": "For sale for the first time in generations ch-an-gweal farm house is an impressive three-bedroom farm house with an abudance of character features. offered for sale for the first time in generations. presents as a wonderful opportunity for either a family home or investment.",
-    "description": "3 bedroom detached house for sale",
-    "details": {
-      "address": "St. Ives Road, Carbis Bay, St. Ives, Cornwall",
-      "firstlisted": "2020-01-30T00:00:00",
-      "longlat": "50.198758,-5.473213",
-      "maxSpeed": 80,
-      "postcode": "TR26 2PN"
-    },
-    "id": "R77135431",
-    "price": "\u00a3575,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/44k/43067/77135431/43067_STI190178_IMG_29_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-77135431.html"
   },
   {
     "address": "Tehidy Park, Tehidy",
@@ -732,22 +785,6 @@
     "price": "\u00a3445,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/5k/4758/71472807/4758_29748440_IMG_27_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-71472807.html"
-  },
-  {
-    "address": "Perranwell Station, Nr. Truro, Cornwall",
-    "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
-    "description": "3 bedroom detached house for sale",
-    "details": {
-      "address": "Perranwell Station, Nr. Truro, Cornwall",
-      "firstlisted": "2020-09-15T00:00:00",
-      "longlat": "50.215430,-5.110929",
-      "maxSpeed": 80,
-      "postcode": "TR3 7NL"
-    },
-    "id": "R73265103",
-    "price": "\u00a3650,000 Offers in Region of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
   },
   {
     "address": "Keeble Park, Perranwell Station",
@@ -856,15 +893,30 @@
     "description": "6 bedroom detached house for sale",
     "details": {
       "address": "Higher Fraddon, St. Columb",
-      "firstlisted": "2020-07-16T00:00:00",
+      "firstlisted": "2020-08-01T00:00:00",
       "longlat": "50.387783,-4.933807",
       "maxSpeed": 105,
       "postcode": "TR9 6NQ"
     },
-    "id": "R82236508",
+    "id": "R85028422",
     "price": "\u00a3495,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/82236508/35507_29812519_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-82236508.html"
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/85028422/35507_29812519_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-85028422.html"
+  },
+  {
+    "id": "R95544797",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "R95544794",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "R95544782",
+    "reason": "unbuilt",
+    "skipped": true
   },
   {
     "address": "Gloweth, Truro",
@@ -881,22 +933,6 @@
     "price": "\u00a3450,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/96k/95647/82877986/95647_101412009202_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-82877986.html"
-  },
-  {
-    "address": "Rye Hill, Ponsanooth, Truro",
-    "blurb": "***detached non estate home*** elevated position with far reaching views*** building plot for separate dwelling***modern contemporary living throughout*** superb open plan kitchen dining room with wood burning stove*** bi folding doors from the dining area to the full width terrace*** open plan ...",
-    "description": "3 bedroom detached bungalow for sale",
-    "details": {
-      "address": "Rye Hill, Ponsanooth, Truro",
-      "firstlisted": "2020-07-25T00:00:00",
-      "longlat": "50.195522,-5.143455",
-      "maxSpeed": 78,
-      "postcode": "TR3 7ES"
-    },
-    "id": "R82691230",
-    "price": "\u00a3525,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61588/82691230/61588_29842806_IMG_25_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-82691230.html"
   },
   {
     "address": "The Forge, Carnon Downs, Truro",
@@ -1030,37 +1066,5 @@
     "price": "\u00a3500,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/81675253/151103_966175-1_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-81675253.html"
-  },
-  {
-    "address": "With 1 Bed Letting Suite, & 3 Bed Det. Cottage, Camborne, Cornwall, TR14",
-    "blurb": "Substantial 5 bedroom period property with a three bedroom detached annexe in the grounds, a letting suite and an abundance of parking.",
-    "description": "5 bedroom detached house for sale",
-    "details": {
-      "address": "With 1 Bed Letting Suite, & 3 Bed Det. Cottage, Camborne, Cornwall, TR14",
-      "firstlisted": "2019-11-27T00:00:00",
-      "longlat": "50.209894,-5.295832",
-      "maxSpeed": 1000,
-      "postcode": "TR14 7AE"
-    },
-    "id": "R86968280",
-    "price": "\u00a3595,000 Offers Over",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5061/86968280/5061_TRV190286_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-86968280.html"
-  },
-  {
-    "address": "Burncoose, Gwennap, REDRUTH, Cornwall",
-    "blurb": "* commanding four bedroom detached house * extended by the current owners * boasting an abundance of character and charm * superb conservatory * off street parking for several vehicles * beautifully maintained gardens enjoying a high degree of pr...",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Burncoose, Gwennap, REDRUTH, Cornwall",
-      "firstlisted": "2020-06-26T00:00:00",
-      "longlat": "50.209620,-5.166054",
-      "maxSpeed": 330,
-      "postcode": "TR16 6BJ"
-    },
-    "id": "R94065032",
-    "price": "\u00a3600,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/117k/116257/94065032/116257_4846512_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-94065032.html"
   }
 ]
