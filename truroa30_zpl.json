@@ -1,5 +1,124 @@
 [
   {
+    "id": "Z56386058",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56386040",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56384247",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56380300",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "Property located in Stamps Lane, Redruth",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Stamps Lane, Illogan Highway, Redruth TR15",
+      "firstlisted": "2020-09-25T00:00:00",
+      "longlat": "50.232001,-5.25395",
+      "maxSpeed": 80,
+      "postcode": "TR15 3JY",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56378393",
+    "price": "\u00a3600,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/97fb01d3ef000a9e49af0244a95348a50c904dd5.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56378393"
+  },
+  {
+    "id": "Z56377154",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56377072",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56375331",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56374999",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56374571",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56374009",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56372870",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56372715",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56372517",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "blurb": "Impressive architectually designed detached home. Built to a very high specification which is sure to impress in an excellent locaton approximately seven miles from the city of Truro and six miles from the harbour town of Falmouth This \u2018grand ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Frogpool, Truro TR4",
+      "firstlisted": "2020-09-25T00:00:00",
+      "longlat": "50.218361,-5.137002",
+      "maxSpeed": 67.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56369193",
+    "price": "\u00a3650,000\n\n\n\n\n\n\n\n                Offers in region of",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/0f99e6e3ddf5e05e10a34798f27feaa786368fd7.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56369193"
+  },
+  {
+    "id": "Z56367650",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56365942",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56356561",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56351492",
+    "reason": "people",
+    "skipped": true
+  },
+  {
     "id": "Z56344916",
     "reason": "location",
     "skipped": true
@@ -106,6 +225,11 @@
     "skipped": true
   },
   {
+    "id": "Z56296400",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "blurb": "* 5 double bedroomed detached family home * Detached double garage * private brick paved driveway for 5 cars * Master bedroom suite with en-suite bathroom and walk-in dressing room * Generous open plan kitchen dining room with * neff appliances * ...",
     "description": "5 bed detached house for sale",
     "details": {
@@ -121,11 +245,6 @@
     "rooms": "5 bedrooms",
     "thumb": "https://lid.zoocdn.com/354/255/2a2f7bd9a3201decd47f0f002c59bad485eeda7e.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56296399"
-  },
-  {
-    "id": "Z56296400",
-    "reason": "location",
-    "skipped": true
   },
   {
     "blurb": "Situated in a highly desirable residential area of Carbis Bay, within walking distance of the beach. Comfortable, well presented 3 bedroom family living with gas central heating and double glazing. Private parking area, (truncated)",
@@ -281,28 +400,6 @@
     "skipped": true
   },
   {
-    "blurb": "A beautifully presented 4 bedroom (main en suite) 2 reception room period townhouse set in a corner plot with driveway and garage. EPC rating C. Take a virtual tour:",
-    "description": "4 bed property for sale",
-    "details": {
-      "address": "Fernleigh Road, Wadebridge PL27",
-      "firstlisted": "2020-09-14T00:00:00",
-      "longlat": "50.51308,-4.833481",
-      "maxSpeed": 69.0,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z56238308",
-    "price": "\u00a3479,950",
-    "rooms": "4 bedrooms",
-    "thumb": "https://lid.zoocdn.com/354/255/3e1e72aeddf64b2306278f23629f86c65225a68e.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56238308"
-  },
-  {
-    "id": "Z56238092",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56237752",
     "reason": "people",
     "skipped": true
@@ -313,31 +410,9 @@
     "skipped": true
   },
   {
-    "id": "Z56226663",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z56218137",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "A large stunning and immaculate executive style four double bedroom, two reception room, three bathroom detached house with detached garage located in a highly sought after location in the former grounds of Trewirgie House. Central yet secluded ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Langarth Court, Redruth TR15",
-      "firstlisted": "2020-09-12T00:00:00",
-      "longlat": "50.230317,-5.231495",
-      "maxSpeed": 1000,
-      "postcode": "TR15 2TL",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z54866646",
-    "price": "\u00a3520,000\n\n\n\n\n\n\n\n                Offers over",
-    "rooms": "4 bedrooms, 1 bathroom, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/03078997595a34752ede3d7b981896ebb1c356e1.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/54866646"
   },
   {
     "id": "Z56208874",
@@ -356,11 +431,6 @@
   },
   {
     "id": "Z56206910",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56204855",
     "reason": "location",
     "skipped": true
   },
@@ -418,23 +488,6 @@
     "id": "Z56148963",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "*annexe* *3+ acres* *beautiful and quiet location near to newquay airport* Tregantle House and it's separate one bedroom Annexe, is located in a small hamlet of 5 properties which make up Tregatillian, close to St Columb Major. Less than 10 miles away ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Tregatillian, St. Columb TR9",
-      "firstlisted": "2020-09-07T00:00:00",
-      "longlat": "50.42727,-4.921995",
-      "maxSpeed": 330,
-      "postcode": "TR9 6JQ",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z44609300",
-    "price": "\u00a3635,000",
-    "rooms": "4 bedrooms, 3 bathrooms, 3 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/3dfe4f0e85156942e72cbdee080909fccaa5d6d2.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/44609300"
   },
   {
     "blurb": "This immaculately presented executive style detached house is situated in a popular residential area and benefits from four bedrooms (2 En-Suite), a lounge, fitted kitchen/diner, utility, wrap-around conservatory and family bathroom. The property is ...",
@@ -514,23 +567,8 @@
     "skipped": true
   },
   {
-    "id": "Z56090047",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56078866",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z56076613",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56074919",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -591,23 +629,6 @@
     "skipped": true
   },
   {
-    "blurb": "Well-presented five bedroomed detached bungalow, with superb 0.5 acre gardens, situated in the beautiful Perrancoombe Valley, near Perranporth. Offering generous family living accommodation with living room, kitchen/diner, conservatory, (truncated)",
-    "description": "5 bed bungalow for sale",
-    "details": {
-      "address": "Perrancoombe, Perranporth, Cornwall TR6",
-      "firstlisted": "2020-08-28T00:00:00",
-      "longlat": "50.33015,-5.158899",
-      "maxSpeed": 51.4,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z56055691",
-    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Guide price",
-    "rooms": "5 bedrooms, 3 bathrooms, 1 reception room",
-    "thumb": "https://lid.zoocdn.com/354/255/228ede31a8d5d2e9fa2810cac1443e8e746311bb.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56055691"
-  },
-  {
     "id": "Z56043857",
     "reason": "location",
     "skipped": true
@@ -624,11 +645,6 @@
   },
   {
     "id": "Z56040279",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56035833",
     "reason": "location",
     "skipped": true
   },
@@ -784,11 +800,6 @@
     "skipped": true
   },
   {
-    "id": "Z55930447",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55930002",
     "reason": "people",
     "skipped": true
@@ -836,11 +847,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/52505652"
   },
   {
-    "id": "Z55907844",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z55883661",
     "reason": "location",
     "skipped": true
@@ -859,23 +865,6 @@
     "id": "Z55864622",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "Riverside, Angarrack, Hayle \u2013 Freehold \u00a3450,000 Superbly presented four bedroom home set in this quiet location. With ample parking and beautifully presented gardens. Two receptions. Utility area. Garage with electric door. Easy access to Hayle, the ...",
-    "description": "4 bed detached bungalow for sale",
-    "details": {
-      "address": "Riverside, Angarrack, Cornwall. TR27",
-      "firstlisted": "2020-09-14T00:00:00",
-      "longlat": "50.192566,-5.384343",
-      "maxSpeed": 55.0,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55849874",
-    "price": "\u00a3450,000",
-    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/a2dc8bd63af55b09265cd46e12ba1a7d355f2c5c.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55849874"
   },
   {
     "id": "Z55846709",
@@ -1010,8 +999,18 @@
     "skipped": true
   },
   {
+    "id": "Z55705499",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z55705183",
     "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55695611",
+    "reason": "location",
     "skipped": true
   },
   {
@@ -1041,11 +1040,6 @@
   },
   {
     "id": "Z55663949",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55659483",
     "reason": "location",
     "skipped": true
   },
@@ -1105,23 +1099,6 @@
     "id": "Z51310475",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "A beautifully presented detached bungalow with superb proportions throughout which has been painstakingly improved by our current vendors over the last few years to create a faultless family home. Set in the most delightful position in one of ...",
-    "description": "3 bed detached bungalow for sale",
-    "details": {
-      "address": "Lowenac Gardens, Camborne TR14",
-      "firstlisted": "2020-09-15T00:00:00",
-      "longlat": "50.210201,-5.3021",
-      "maxSpeed": 77.9,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55551241",
-    "price": "\u00a3400,000\n\n\n\n\n\n\n\n                Offers over",
-    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/d31afd4b10a07480145d9cd002b55b55880d3346.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55551241"
   },
   {
     "id": "Z55546479",
@@ -1186,23 +1163,6 @@
     "skipped": true
   },
   {
-    "blurb": "A spacious 5 bedroomed detached family home enjoying a private position in the Kenwyn Parish just moments from the city centre. Some cosmetic work required, viewing recommended.",
-    "description": "5 bed detached house for sale",
-    "details": {
-      "address": "Higher Trehaverne, Truro, Cornwall TR1",
-      "firstlisted": "2020-07-15T00:00:00",
-      "longlat": "50.269771,-5.058515",
-      "maxSpeed": 76.6,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55521061",
-    "price": "\u00a3475,000\n\n\n\n\n\n\n\n                Guide price",
-    "rooms": "5 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/17a98f532f2abc4d371a2e21ed7e9d61a3affb27.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55521061"
-  },
-  {
     "id": "Z55519713",
     "reason": "location",
     "skipped": true
@@ -1243,12 +1203,12 @@
     "skipped": true
   },
   {
-    "id": "Z55440841",
+    "id": "Z55440845",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z55440845",
+    "id": "Z55440841",
     "reason": "location",
     "skipped": true
   },
@@ -1265,38 +1225,6 @@
   {
     "id": "Z55433519",
     "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55431776",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "blurb": "Situated in the heart of this popular Cornish Village is this stunning family home. The property has been much improved by the present vendor by way of a complete refurbishment and modernisation as well as a significant two storey extension. In ...",
-    "description": "4 bed barn conversion for sale",
-    "details": {
-      "address": "Symons Close, Blackwater TR4",
-      "firstlisted": "2020-07-03T00:00:00",
-      "longlat": "50.270631,-5.179219",
-      "maxSpeed": 79.9,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55400098",
-    "price": "\u00a3500,000",
-    "rooms": "4 bedrooms, 3 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/609680807906741619b228b1d9e6a0d3297fa225.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55400098"
-  },
-  {
-    "id": "Z55392165",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55384815",
-    "reason": "location",
     "skipped": true
   }
 ]
