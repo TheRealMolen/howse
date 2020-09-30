@@ -1,16 +1,88 @@
 [
   {
+    "id": "Z56431710",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56430875",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56427842",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56426897",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56423093",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56421586",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56417422",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56415882",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56409463",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56408038",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "blurb": "4 bedroom detached bungalow & detached 2 storey 1 bed accommodation, set in the heart of this very popular village and the amenities. The property boasts a long private driveway, generous parking, open countryside views from the beautiful rear garden ...",
+    "description": "5 bed detached bungalow for sale",
+    "details": {
+      "address": "Praze, Camborne TR14",
+      "firstlisted": "2020-09-29T00:00:00",
+      "longlat": "50.173767,-5.313094",
+      "maxSpeed": 60.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56405635",
+    "price": "\u00a3450,000\n\n\n\n\n\n\n\n                Offers in region of",
+    "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/9c040135f2a7ae1ae7ba070f1d8c8f5d35819ccb.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56405635"
+  },
+  {
+    "id": "Z56391436",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56391437",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56386058",
     "reason": "internet",
     "skipped": true
   },
   {
     "id": "Z56386040",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56384247",
     "reason": "location",
     "skipped": true
   },
@@ -35,16 +107,6 @@
     "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/97fb01d3ef000a9e49af0244a95348a50c904dd5.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56378393"
-  },
-  {
-    "id": "Z56377154",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56377072",
-    "reason": "location",
-    "skipped": true
   },
   {
     "id": "Z56375331",
@@ -124,11 +186,6 @@
     "skipped": true
   },
   {
-    "id": "Z56343398",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56341965",
     "reason": "location",
     "skipped": true
@@ -149,11 +206,6 @@
     "rooms": "3 bedrooms, 4 bathrooms, 3 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/84660cc46c5d660f1dce46805caa7fc7858a6edd.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56338347"
-  },
-  {
-    "id": "Z43624871",
-    "reason": "people",
-    "skipped": true
   },
   {
     "blurb": "\u2018Hidden Cottage\u2019, as the name suggests is tucked away from passing traffic and offers a high degree of privacy yet is still within close proximity to the centre of Carharrack village. Approached from the rear, a portico entrance leads to the hallway ...",
@@ -205,11 +257,6 @@
     "skipped": true
   },
   {
-    "id": "Z56313917",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "id": "Z56304315",
     "reason": "location",
     "skipped": true
@@ -221,11 +268,6 @@
   },
   {
     "id": "Z56299624",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56296400",
     "reason": "location",
     "skipped": true
   },
@@ -306,11 +348,6 @@
     "rooms": "4 bedrooms, 1 bathroom, 3 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/7380dc2c345b32750824f5fc513c21c85d5c9e50.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56289538"
-  },
-  {
-    "id": "Z56286194",
-    "reason": "location",
-    "skipped": true
   },
   {
     "id": "Z56284733",
@@ -410,11 +447,6 @@
     "skipped": true
   },
   {
-    "id": "Z56218137",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56208874",
     "reason": "people",
     "skipped": true
@@ -443,6 +475,23 @@
     "id": "Z56201604",
     "reason": "people",
     "skipped": true
+  },
+  {
+    "blurb": "A stunning, light and spacious, detached four-bedroomed house with contemporary interiors, specified and finished to a very high standard with detached garage, off-road parking plus a lovely sun deck and Astro-turf garden to the front and private ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Carninney Lane, Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-09-10T00:00:00",
+      "longlat": "50.192931,-5.473083",
+      "maxSpeed": 52.6,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56199260",
+    "price": "\u00a3495,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms, 3 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/9f6fb76ca97e053c301656df63c371728b96eeaa.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56199260"
   },
   {
     "id": "Z56195568",
@@ -629,26 +678,6 @@
     "skipped": true
   },
   {
-    "id": "Z56043857",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56043105",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z56042727",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56040279",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56031598",
     "reason": "location",
     "skipped": true
@@ -656,11 +685,6 @@
   {
     "id": "Z56027522",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z56024925",
-    "reason": "location",
     "skipped": true
   },
   {
@@ -702,6 +726,11 @@
   },
   {
     "id": "Z56002109",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55999805",
     "reason": "location",
     "skipped": true
   },
@@ -790,17 +819,7 @@
     "skipped": true
   },
   {
-    "id": "Z55932918",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z55931321",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55930002",
     "reason": "people",
     "skipped": true
   },
@@ -823,6 +842,23 @@
     "id": "Z55917525",
     "reason": "location",
     "skipped": true
+  },
+  {
+    "blurb": "Archways is a large 3 double bedroom property situated in Parc an Gonwyn on the sought after seaward side of Carbis Bay, close to good local amenities & schools and a short walk down to the award winning Carbis Bay Beach. Offering a large ...",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Parc An Gonwyn, Carbis Bay, St. Ives TR26",
+      "firstlisted": "2020-08-17T00:00:00",
+      "longlat": "50.1951,-5.459478",
+      "maxSpeed": 80.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55915391",
+    "price": "\u00a3499,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/a55aa809ddc2908aa8b07b50c52d5ad1db8c3ca4.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55915391"
   },
   {
     "id": "Z55632808",
@@ -927,11 +963,6 @@
     "skipped": true
   },
   {
-    "id": "Z55782925",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55778722",
     "reason": "location",
     "skipped": true
@@ -945,23 +976,6 @@
     "id": "Z55767909",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "A unique residence offering spacious, light accommodation, with ensuite to main bedroom, two further bedrooms, three reception rooms and surrounded by the most beautiful gardens. Within walking distance of the estuary, branch line to St Ives and local ...",
-    "description": "3 bed detached bungalow for sale",
-    "details": {
-      "address": "Station Hill, Lelant, St. Ives TR26",
-      "firstlisted": "2020-08-05T00:00:00",
-      "longlat": "50.1837,-5.43898",
-      "maxSpeed": 80.0,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55758862",
-    "price": "\u00a3625,000",
-    "rooms": "3 bedrooms, 2 bathrooms, 3 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/7be29d18d1b34e0a99a9f8f45af798c0015289fc.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55758862"
   },
   {
     "id": "Z55738036",
@@ -1001,11 +1015,6 @@
   {
     "id": "Z55705499",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55705183",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1074,6 +1083,23 @@
     "id": "Z55615634",
     "reason": "people",
     "skipped": true
+  },
+  {
+    "blurb": "A stunning detached cottage offering a large enclosed sunny garden. Internally the property offers a wealth of charm throughout. The large sitting room leads into the beautiful fitted kitchen dining room. There are 3 bedrooms with the master ensuite. ...",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Lelant, St. Ives TR26",
+      "firstlisted": "2020-07-23T00:00:00",
+      "longlat": "50.180221,-5.444126",
+      "maxSpeed": 52.6,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55610143",
+    "price": "\u00a3499,950",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/402bf9dc1e3f8c981507ec186feb69be7356395f.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55610143"
   },
   {
     "id": "Z54629690",
@@ -1183,11 +1209,6 @@
     "skipped": true
   },
   {
-    "id": "Z55470974",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55449744",
     "reason": "internet",
     "skipped": true
@@ -1203,12 +1224,12 @@
     "skipped": true
   },
   {
-    "id": "Z55440845",
+    "id": "Z55440841",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z55440841",
+    "id": "Z55440845",
     "reason": "location",
     "skipped": true
   },
@@ -1225,6 +1246,33 @@
   {
     "id": "Z55433519",
     "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55431776",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "blurb": "Situated in the heart of this popular Cornish Village is this stunning family home. The property has been much improved by the present vendor by way of a complete refurbishment and modernisation as well as a significant two storey extension. In ...",
+    "description": "4 bed barn conversion for sale",
+    "details": {
+      "address": "Symons Close, Blackwater TR4",
+      "firstlisted": "2020-07-03T00:00:00",
+      "longlat": "50.270631,-5.179219",
+      "maxSpeed": 79.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55400098",
+    "price": "\u00a3500,000",
+    "rooms": "4 bedrooms, 3 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/609680807906741619b228b1d9e6a0d3297fa225.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55400098"
+  },
+  {
+    "id": "Z55384815",
+    "reason": "location",
     "skipped": true
   }
 ]
