@@ -189,7 +189,7 @@ def get_all_properties(url, area=None, existing={}):
     global max_pagenum
     max_pagenum = -1
     properties,newproperties = get_one_page(url, 1, area, existing)
-    for pn in range(2, max_pagenum):
+    for pn in range(2, max_pagenum+1):
         all,new = get_one_page(url, pn, area, existing)
         properties += all
         newproperties += new
