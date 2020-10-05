@@ -1,5 +1,49 @@
 [
   {
+    "id": "Z56487371",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56486495",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "Situated within the beauty of Cornwall\u2019s countryside is this detached farmhouse set centrally within land of four acres arranged as formal gardens, amenity land and paddocks providing a rural and private retreat. Perfect for the family looking for a ...",
+    "description": "4 bed property for sale",
+    "details": {
+      "address": "Bolenowe Lane, Troon, Camborne TR14",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.200676,-5.263899",
+      "maxSpeed": 1000,
+      "postcode": "TR14 9HP",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56484934",
+    "price": "\u00a3650,000",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f1892e21f7dcc9d5bca6a8d074869702c445660e.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56484934"
+  },
+  {
+    "blurb": "*** viewing highly recommended *** To appreciate this beautiful double fronted four/five double bedroom two/three reception room detached cottage with two en-suites, shower room and conservatory set in the idyllic and sought after hamlet of Bridge ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Bridge, St Columb TR9",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.43877,-4.937607",
+      "maxSpeed": 51.5,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55514755",
+    "price": "\u00a3400,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms, 1 bathroom, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/3147c2df93734e2dca0996f57f3aa319d9f0cbd2.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55514755"
+  },
+  {
     "id": "Z56471145",
     "reason": "location",
     "skipped": true
@@ -47,23 +91,6 @@
     "id": "Z56452135",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "A beautifullyl presented four bedroom bungalow set within large grounds totalling nearly 2 acres situated on a quiet lane just half a mile north of the village of Zelah.",
-    "description": "4 bed bungalow for sale",
-    "details": {
-      "address": "Truro, Cornwall TR4",
-      "firstlisted": "2020-10-01T00:00:00",
-      "longlat": "50.323873,-5.084989",
-      "maxSpeed": 1000,
-      "postcode": "TR4 9HH",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z56445446",
-    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Guide price",
-    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/26e1514ebf0f4d1347aee50bf8a00fa853222fca.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56445446"
   },
   {
     "id": "Z56444739",
@@ -175,12 +202,12 @@
     "url": "https://zoopla.co.uk/for-sale/details/56405635"
   },
   {
-    "id": "Z56391436",
+    "id": "Z56391437",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56391437",
+    "id": "Z56391436",
     "reason": "location",
     "skipped": true
   },
@@ -360,6 +387,11 @@
     "skipped": true
   },
   {
+    "id": "Z56308751",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
     "id": "Z56304315",
     "reason": "location",
     "skipped": true
@@ -429,11 +461,6 @@
     "rooms": "4 bedrooms, 1 bathroom, 3 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/7380dc2c345b32750824f5fc513c21c85d5c9e50.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56289538"
-  },
-  {
-    "id": "Z56284733",
-    "reason": "people",
-    "skipped": true
   },
   {
     "id": "Z56280852",
@@ -677,6 +704,11 @@
     "skipped": true
   },
   {
+    "id": "Z56114102",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56110834",
     "reason": "location",
     "skipped": true
@@ -754,13 +786,13 @@
     "skipped": true
   },
   {
-    "id": "Z56031598",
+    "id": "Z56040279",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56027522",
-    "reason": "internet",
+    "id": "Z56031598",
+    "reason": "location",
     "skipped": true
   },
   {
@@ -843,23 +875,6 @@
     "skipped": true
   },
   {
-    "blurb": "Cornish Bricks are delighted to offer this beautifully presented spacious family home in a superb tucked away quiet location in a sought after burrington estate development. This property is a short walk from the local village amenities , and a short ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Cherry Tree Close, St. Erme, Truro TR4",
-      "firstlisted": "2020-08-20T00:00:00",
-      "longlat": "50.310867,-5.030552",
-      "maxSpeed": 80,
-      "postcode": "TR4 9RH",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z55955731",
-    "price": "\u00a3420,000\n\n\n\n\n\n\n\n                Offers in region of",
-    "rooms": "4 bedrooms, 2 bathrooms, 1 reception room",
-    "thumb": "https://lid.zoocdn.com/354/255/529a1d02de460d4272e2a3b819878d7f1273441a.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55955731"
-  },
-  {
     "id": "Z55949288",
     "reason": "people",
     "skipped": true
@@ -932,11 +947,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/55915391"
   },
   {
-    "id": "Z55632808",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "blurb": "An extremely well presented and immaculately looked after 4 bedroom detached home located in one of the most sought after roads within the popular estuary village of Lelant. Offering spacious accommodation internally including a large master bedroom ...",
     "description": "4 bed detached house for sale",
     "details": {
@@ -955,11 +965,6 @@
   },
   {
     "id": "Z55883661",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55873026",
     "reason": "location",
     "skipped": true
   },
@@ -1484,12 +1489,12 @@
     "skipped": true
   },
   {
-    "id": "Z54532472",
+    "id": "Z54532470",
     "reason": "unbuilt",
     "skipped": true
   },
   {
-    "id": "Z54532470",
+    "id": "Z54532472",
     "reason": "unbuilt",
     "skipped": true
   },
@@ -1717,6 +1722,11 @@
   {
     "id": "Z51506505",
     "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z51444678",
+    "reason": "location",
     "skipped": true
   },
   {

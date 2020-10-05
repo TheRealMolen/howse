@@ -16,6 +16,27 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-73475034.html"
   },
   {
+    "id": "R73847328",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "address": "Bolenowe Lane, Troon, Camborne",
+    "blurb": "Situated within the beauty of cornwall\u2019s countryside is this detached farmhouse set centrally within land of four acres arranged as formal gardens, amenity land and paddocks providing a rural and private retreat. perfect for the family looking for a rural smallholding, there are four bed...",
+    "description": "4 bedroom house for sale",
+    "details": {
+      "address": "Bolenowe Lane, Troon, Camborne",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.200676,-5.263899",
+      "maxSpeed": 1000,
+      "postcode": "TR14 9HP"
+    },
+    "id": "R73844532",
+    "price": "\u00a3650,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/73844532/168611_10541349_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73844532.html"
+  },
+  {
     "address": "Trevanion Road, Wadebridge, Cornwall, PL27",
     "blurb": "An individual 3/4 bedroom detached property with well presented accommodation throughout and some attractive character features situated just a short stroll from town. epc rating e. ",
     "description": "4 bedroom detached bungalow for sale",
@@ -51,22 +72,6 @@
     "id": "R85395466",
     "reason": "people",
     "skipped": true
-  },
-  {
-    "address": "Zelah, Truro, Cornwall, TR4",
-    "blurb": "A beautifullyl presented four bedroom bungalow set within large grounds totalling nearly 2 acres situated on a quiet lane just half a mile north of the village of zelah.",
-    "description": "4 bedroom bungalow for sale",
-    "details": {
-      "address": "Zelah, Truro, Cornwall, TR4",
-      "firstlisted": "2020-10-01T00:00:00",
-      "longlat": "50.320000,-5.090000",
-      "maxSpeed": 1000,
-      "postcode": "TR4 9HH"
-    },
-    "id": "R97900595",
-    "price": "\u00a3575,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5061/97900595/5061_TRV190145_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-97900595.html"
   },
   {
     "address": "Tregos Road, Carbis Bay, St. Ives",
@@ -346,9 +351,36 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-82691230.html"
   },
   {
-    "id": "R73400199",
-    "reason": "internet",
-    "skipped": true
+    "address": "Steppy Downs Road, St. Erth Praze, Hayle",
+    "blurb": "South stables is positioned within the curtilage of a grade ii listed enclave. tregenhorne is a small hamlet of sympathetically converted barns, set in the most tranquil and idyllic countryside location, yet only 1 mile distant from the village of st erth, 2.4 miles from hayle, and approximately...",
+    "description": "3 bedroom barn conversion for sale",
+    "details": {
+      "address": "Steppy Downs Road, St. Erth Praze, Hayle",
+      "firstlisted": "2020-09-21T00:00:00",
+      "longlat": "50.164440,-5.406156",
+      "maxSpeed": 330,
+      "postcode": "TR27 6EE"
+    },
+    "id": "R84996526",
+    "price": "\u00a3435,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/8k/7615/84996526/7615_30023041_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-84996526.html"
+  },
+  {
+    "address": "Kerkin Close, Goonhavern, Truro, Cornwall, TR4",
+    "blurb": "Beautiful architect designed four bedroomed detached house in a lovely semi-rural location on the outskirts of goonhavern, near perranporth. offering superb contemporary family living accommodation including entrance hall, fabulous open plan kitchen/diner/family area, living room, utility room, f...",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Kerkin Close, Goonhavern, Truro, Cornwall, TR4",
+      "firstlisted": "2020-09-23T00:00:00",
+      "longlat": "50.335310,-5.100544",
+      "maxSpeed": 1000,
+      "postcode": "TR4 9FG"
+    },
+    "id": "R73475034",
+    "price": "\u00a3650,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/17k/16194/73475034/16194_CHP200057_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73475034.html"
   },
   {
     "address": "Porthrepta Road, Carbis Bay, St Ives, Cornwall, TR26",
@@ -365,22 +397,6 @@
     "price": "\u00a3440,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/38k/37769/73377459/37769_LAT200117_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-73377459.html"
-  },
-  {
-    "address": "Scorrier, Redruth",
-    "blurb": "Situated in a sylvan setting, some six miles west of truro in the village of scorrier, this detached character cottage sits within professionally designed gardens of approximately 0.6 acres. well presented throughout there are four double size bedrooms, two of which have en-suite showers. ...",
-    "description": "4 bedroom character property for sale",
-    "details": {
-      "address": "Scorrier, Redruth",
-      "firstlisted": "2020-09-22T00:00:00",
-      "longlat": "50.253380,-5.195035",
-      "maxSpeed": 80,
-      "postcode": "TR16 5BS"
-    },
-    "id": "R85043200",
-    "price": "\u00a3540,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/85043200/168611_10481396_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-85043200.html"
   },
   {
     "address": "Chapel Hill, Truro",
@@ -543,22 +559,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-97114439.html"
   },
   {
-    "address": "Perranarworthal,  Near Truro",
-    "blurb": " an individual detached four bedroom home in an exclusive cul de sac on the edge of the village. ample driveway parking, garage, mature landscaped gardens. guided video tour available.",
-    "description": "4 bedroom detached bungalow for sale",
-    "details": {
-      "address": "Perranarworthal,  Near Truro",
-      "firstlisted": "2020-09-10T00:00:00",
-      "longlat": "50.207520,-5.119150",
-      "maxSpeed": 80,
-      "postcode": "TR3 7QU"
-    },
-    "id": "R84600694",
-    "price": "\u00a3570,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56940/84600694/56940_10488363_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-84600694.html"
-  },
-  {
     "address": "Penhalls Way, Playing Place",
     "blurb": " a fantastically well presented detached three bedroom bungalow with additional attic conversion set in a very large garden plot with garage and gated driveway.",
     "description": "3 bedroom detached bungalow for sale",
@@ -708,11 +708,6 @@
     "skipped": true
   },
   {
-    "id": "R72798729",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "address": "Fuggoe Croft, Carbis Bay, St. Ives, Cornwall",
     "blurb": "Lovely four-bedroom family home this delightful four-bedroom detached family home has spacious accommodation with a gorgeous garden and patio for alfresco dining. positioned in a brilliant location with close proximity to local amenities and transport, number 6 also offers two reception...",
     "description": "4 bedroom detached house for sale",
@@ -745,22 +740,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83918791.html"
   },
   {
-    "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
-    "blurb": "This picturesque 3 bedroom, one en-suite detached character cottage is set amidst beautifully landscaped gardens together with an area of woodland just a short walk to the park and playing fields. epc rating e.",
-    "description": "3 bedroom cottage for sale",
-    "details": {
-      "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
-      "firstlisted": "2020-09-30T00:00:00",
-      "longlat": "50.516676,-4.826897",
-      "maxSpeed": 330,
-      "postcode": "PL27 6AL"
-    },
-    "id": "R97822487",
-    "price": "\u00a3535,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97822487/3915_WB3435_IMG_00_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-97822487.html"
-  },
-  {
     "address": "St. Pirans Hill, Perranwell Station, Nr. Truro",
     "blurb": " a light, bright, airy and spaciou four bedroom detached dormer bungalow found in the heart of the village in a non estate position. beautifully presented with superb gardens. driveway parking and a garage. guided video tour available.",
     "description": "4 bedroom detached bungalow for sale",
@@ -777,20 +756,20 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83805430.html"
   },
   {
-    "address": "Cherry Tree Close, Truro",
-    "blurb": "Cornish bricks are delighted to offer this beautifully presented spacious family home in a superb tucked away quiet location in a sought after burrington estate development. this property is a short walk from the local village amenities, and a short drive to the a30 and truro city centre. this...",
-    "description": "4 bedroom detached house for sale",
+    "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+    "blurb": "This picturesque 3 bedroom, one en-suite detached character cottage is set amidst beautifully landscaped gardens together with an area of woodland just a short walk to the park and playing fields. epc rating e.",
+    "description": "3 bedroom cottage for sale",
     "details": {
-      "address": "Cherry Tree Close, Truro",
-      "firstlisted": "2020-08-20T00:00:00",
-      "longlat": "50.310867,-5.030552",
+      "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+      "firstlisted": "2020-09-30T00:00:00",
+      "longlat": "50.516676,-4.826897",
       "maxSpeed": 330,
-      "postcode": "TR4 9FT"
+      "postcode": "PL27 6AL"
     },
-    "id": "R83790313",
-    "price": "\u00a3420,000 Offers in Region of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/65k/64422/83790313/64422_10437121_IMG_02_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-83790313.html"
+    "id": "R97822487",
+    "price": "\u00a3535,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97822487/3915_WB3435_IMG_00_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97822487.html"
   },
   {
     "address": "Perranwell Station, Nr. Truro, Cornwall",
@@ -1101,22 +1080,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-82877986.html"
   },
   {
-    "address": "Trevanion Road, Wadebridge, Cornwall, PL27",
-    "blurb": "An individual 3/4 bedroom detached property with well presented accommodation throughout and some attractive character features situated just a short stroll from town. epc rating e. ",
-    "description": "4 bedroom detached bungalow for sale",
-    "details": {
-      "address": "Trevanion Road, Wadebridge, Cornwall, PL27",
-      "firstlisted": "2020-10-03T00:00:00",
-      "longlat": "50.512180,-4.837914",
-      "maxSpeed": 80,
-      "postcode": "PL27 7PA"
-    },
-    "id": "R97982789",
-    "price": "\u00a3530,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97982789/3915_WB3440_IMG_00_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-97982789.html"
-  },
-  {
     "address": "The Forge, Carnon Downs, Truro",
     "blurb": " in an exclusive cul de sac in the sought after village of carnon downs, a high specification four bedroom (two en-suite including main with en-suite, dressing room and roof terrace) detached family home. landscaped garden, plenty of driveway parking, garage. wonderful views.",
     "description": "4 bedroom detached house for sale",
@@ -1147,6 +1110,22 @@
     "price": "\u00a3650,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/72059451/32489_8132_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-72059451.html"
+  },
+  {
+    "address": "Trevanion Road, Wadebridge, Cornwall, PL27",
+    "blurb": "An individual 3/4 bedroom detached property with well presented accommodation throughout and some attractive character features situated just a short stroll from town. epc rating e. ",
+    "description": "4 bedroom detached bungalow for sale",
+    "details": {
+      "address": "Trevanion Road, Wadebridge, Cornwall, PL27",
+      "firstlisted": "2020-10-03T00:00:00",
+      "longlat": "50.512180,-4.837914",
+      "maxSpeed": 80,
+      "postcode": "PL27 7PA"
+    },
+    "id": "R97982789",
+    "price": "\u00a3530,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97982789/3915_WB3440_IMG_00_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97982789.html"
   },
   {
     "address": "Lelant",
@@ -1184,6 +1163,22 @@
     "price": "\u00a3450,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/704/94921700/704_FAL200134_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-94921700.html"
+  },
+  {
+    "address": "Bridge, St Columb, TR9",
+    "blurb": "*** viewing highly recommended *** to appreciate this beautiful double fronted four/five double bedroom two/three reception room detached cottage with two en-suites, shower room and conservatory set in the idyllic and sought after hamlet of bridge near st columb major. the property also benefits...",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Bridge, St Columb, TR9",
+      "firstlisted": "2020-07-14T00:00:00",
+      "longlat": "50.438770,-4.937607",
+      "maxSpeed": 71,
+      "postcode": "TR9 6BB"
+    },
+    "id": "R71860488",
+    "price": "\u00a3400,000 Guide Price",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/71860488/151103_964443-1_IMG_01_0000_max_476x317.JPG",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-71860488.html"
   },
   {
     "address": "Dobbs Lane, , Truro, Cornwall",
