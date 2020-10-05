@@ -19,8 +19,8 @@ def gen_html(properties):
 
     for prop in properties:
         html += '<div class="row py-3 border-bottom border-warning">'
-        html += ' <div class="col-4"><a href="%s" target="_blank"><img src="%s" style="max-width:354px"></a></div>' % (prop['url'],prop['thumb'])
-        html += ' <div class="col-8">'
+        html += ' <div class="col-lg-4 col-sm-12"><a href="%s" target="_blank"><img src="%s" style="max-width:354px"></a></div>' % (prop['url'],prop['thumb'])
+        html += ' <div class="col-lg-8 col-sm-12">'
         html += '  <h3><a href="%s" target="_blank">%s</a></h3>' % (prop['url'], prop['description'])
         html += '  <h2>%s</h2>' % prop['price']
         html += '  <h5>%s</h5>' % (prop['address'] if 'address' in prop else prop['details']['address'])
