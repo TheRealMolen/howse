@@ -1,1 +1,391 @@
-[]
+[
+  {
+    "blurb": "Situated in a rural setting, boasting stunning panoramic views over the countryside and on to the coast. (contd...)",
+    "description": "5 bed detached house for sale",
+    "details": {
+      "address": "Brea, Camborne, Cornwall TR14",
+      "firstlisted": "2020-10-22T00:00:00",
+      "longlat": "50.211979,-5.268877",
+      "maxSpeed": 330,
+      "postcode": "TR14 9AY",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56694381",
+    "price": "\u00a3450,000",
+    "rooms": "5 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/b581d47688d8903a4e8ad06569764faf233c3865.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56694381"
+  },
+  {
+    "blurb": "This modern detached three bedroom family home was constructed in 2019 to a high standard and offers bright and light family accommodation. (contd...)",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "St Agnes, Truro, Cornwall TR5",
+      "firstlisted": "2020-10-20T00:00:00",
+      "longlat": "50.3105534494,-5.1975888146",
+      "maxSpeed": 80,
+      "postcode": "TR5 0UD",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56662412",
+    "price": "\u00a3435,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "3 bedrooms, 1 bathroom, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/575ae551537c534e2f2de426be7b0f215862bb08.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56662412"
+  },
+  {
+    "blurb": "A deceptively spacious 4/5 bedroom bungalow which offers light and airy acommodation which comprises in brief of; An entrance porch, a generous lounge diner opening into a conservatory overlooking the rear garden, a well appointed kitchen and separate ...",
+    "description": "5 bed bungalow for sale",
+    "details": {
+      "address": "Lelant, St.Ives, Cornwall TR26",
+      "firstlisted": "2020-10-15T00:00:00",
+      "longlat": "50.182782,-5.442321",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56616396",
+    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "5 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f560214175b3f3fb6b9052449bfe42d5d4e471af.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56616396"
+  },
+  {
+    "blurb": "A 3 bedroom detached bungalow with outstanding sea views A superbly presented and modernised 3 bedroom detached bungalow, with parking, is found on the prestigious seaward side of Carbis Bay, with stunning sea and countryside views over Carbis Bay, ...",
+    "description": "3 bed detached bungalow for sale",
+    "details": {
+      "address": "Gwelanmor Road, Carbis Bay, St. Ives TR26",
+      "firstlisted": "2020-10-12T00:00:00",
+      "longlat": "50.195262,-5.464325",
+      "maxSpeed": 76.2,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56505871",
+    "price": "\u00a3450,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "3 bedrooms, 1 bathroom, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/6d6864c560ea4457c85235ed852c15f0f8288a85.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56505871"
+  },
+  {
+    "blurb": "Situated within the beauty of Cornwall\u2019s countryside is this detached farmhouse set centrally within land of four acres arranged as formal gardens, amenity land and paddocks providing a rural and private retreat. Perfect for the family looking for a ...",
+    "description": "4 bed property for sale",
+    "details": {
+      "address": "Bolenowe Lane, Troon, Camborne TR14",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.200676,-5.263899",
+      "maxSpeed": 1000,
+      "postcode": "TR14 9HP",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56484934",
+    "price": "\u00a3650,000",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f1892e21f7dcc9d5bca6a8d074869702c445660e.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56484934"
+  },
+  {
+    "blurb": "An individual 3/4 bedroom detached property with well presented accommodation throughout and some attractive character features situated just a short stroll from town. EPC rating E. Take a virtual tour:",
+    "description": "4 bed bungalow for sale",
+    "details": {
+      "address": "Trevanion Road, Wadebridge PL27",
+      "firstlisted": "2020-10-02T00:00:00",
+      "longlat": "50.512172,-4.837884",
+      "maxSpeed": 78.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56465140",
+    "price": "\u00a3530,000",
+    "rooms": "4 bedrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/70a59de4bdb02c4c15ffabcab514956bc4e3c619.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56465140"
+  },
+  {
+    "blurb": "Stunning 3 bed detached bungalow walking distance to beach Set in the sought-after location of the seaward side of Carbis Bay, walking distance to Carbis Bay Beach, local amenities and train links to London, this superb three-bedroom detached bungalow ...",
+    "description": "3 bed detached bungalow for sale",
+    "details": {
+      "address": "Kenidjack Close, Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-10-02T00:00:00",
+      "longlat": "50.194702,-5.459267",
+      "maxSpeed": 77.8,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56464702",
+    "price": "\u00a3475,000",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/66af8c6be3016b23ff0e5dd2265514d3af2a481d.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56464702"
+  },
+  {
+    "blurb": "Millerson are delighted to offer for sale this superb modern detached house, situated on a large secluded plot boasting lovely rural views on the outskirts of Illogan. The plot is at least 2.5 acres including two enclosed paddocks, formal gardens, ...",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Stamps Lane, Illogan Highway, Redruth TR15",
+      "firstlisted": "2020-10-21T00:00:00",
+      "longlat": "50.223056,-5.215192",
+      "maxSpeed": 1000,
+      "postcode": "TR15 2AG",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56378393",
+    "price": "\u00a3550,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/baec1b52c80f6d50a83138cd8551f0097205189d.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56378393"
+  },
+  {
+    "blurb": "Amazing location - four bed detached family home A superbly presented modern four-bedroom house in the highly sought-after location of the seaward side of Carbis Bay, this lovely property offers spacious accommodation, low maintenance gardens to the ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Nampara Close, Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.196059,-5.458412",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56338347",
+    "price": "\u00a3599,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 4 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/cd3e0dd1d8f830321b48fc37a5db5240c3362922.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56338347"
+  },
+  {
+    "blurb": "A beautifully presented four bedroom executive detached house in the popular village of St. Erme. The property is very well presented and early internal viewings are strongly advised. (contd...)",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Truro, Cornwall, . TR4",
+      "firstlisted": "2020-09-18T00:00:00",
+      "longlat": "50.309425,-5.02691",
+      "maxSpeed": 76.4,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56289539",
+    "price": "\u00a3435,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/2e1b4c261bfa351433ec07cc81c7274aa4cfe0e8.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56289539"
+  },
+  {
+    "blurb": "Trenoweth Lodge is a most attractive, four bedroom (master ensuite) family home situated on the outskirts of Carbis Bay, offering spacious living accommodation which has been modernised by the current vendors to a high standard throughout. The ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Church Lane, Carbis Bay, St. Ives TR26",
+      "firstlisted": "2020-09-17T00:00:00",
+      "longlat": "50.190399,-5.45628",
+      "postcode": "TR26 3ET"
+    },
+    "id": "Z56241932",
+    "price": "\u00a3575,000",
+    "rooms": "4 bedrooms, 2 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/22832683a46264fd932551ec80cab42d6243ae58.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56241932"
+  },
+  {
+    "blurb": "This stunning reverse level home offers 3 double bedrooms (master ensuite) conveniently located away from the centre of St Ives yet within walking distance of the town and beaches. The impressive open plan living area offers high vaulted exposed ...",
+    "description": "3 bed link-detached house for sale",
+    "details": {
+      "address": "Higher Tregenna Road, St. Ives TR26",
+      "firstlisted": "2020-09-17T00:00:00",
+      "longlat": "50.200733,-5.475181",
+      "maxSpeed": 60.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56276437",
+    "price": "\u00a3575,000",
+    "rooms": "3 bedrooms, 2 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/5173df43a3240f480cee9ed8364792388f1c3910.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56276437"
+  },
+  {
+    "blurb": "This immaculately presented executive style detached house is situated in a popular residential area and benefits from four bedrooms (2 En-Suite), a lounge, fitted kitchen/diner, utility, wrap-around conservatory and family bathroom. The property is ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Park Leven, Illogan, Redruth TR16",
+      "firstlisted": "2020-09-07T00:00:00",
+      "longlat": "50.240211,-5.262042",
+      "maxSpeed": 76.4,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56146221",
+    "price": "\u00a3499,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms, 3 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/0731bbabab79566ad73cbd78d3f3663c9d578f36.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56146221"
+  },
+  {
+    "blurb": "Impressive, detached georgian style 3 double bedroom home within this sought after Duchy of Cornwall development. The property enjoys a fantastic postion on the development overlooking the central walled gardens of the development. Offering private ...",
+    "description": "3 bed detached house for sale",
+    "details": {
+      "address": "Stret Rosemelin, Truro TR1",
+      "firstlisted": "2020-09-16T00:00:00",
+      "longlat": "50.273434,-5.036112",
+      "maxSpeed": 1000,
+      "postcode": "TR1 1RH",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z56061987",
+    "price": "\u00a3415,000\n\n\n\n\n\n\n\n                Offers in region of",
+    "rooms": "3 bedrooms, 2 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/a074693dc59d14f46aa3ff6a152517c30a7174cc.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56061987"
+  },
+  {
+    "blurb": "Lovely four-bedroom family home This delightful four-bedroom detached family home has spacious accommodation with a gorgeous garden and patio for alfresco dining. (contd...)",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Fuggoe Croft, Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-10-05T00:00:00",
+      "longlat": "50.198826,-5.475711",
+      "maxSpeed": 66.2,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56016987",
+    "price": "\u00a3499,000",
+    "rooms": "4 bedrooms, 3 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/5d0bdfc30b6e34825a381fdd63c87bf94f354f8b.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56016987"
+  },
+  {
+    "blurb": "An extremely well presented and immaculately looked after 4 bedroom detached home located in one of the most sought after roads within the popular estuary village of Lelant. Offering spacious accommodation internally including a large master bedroom ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Vicarage Lane, Lelant, St. Ives TR26",
+      "firstlisted": "2020-08-17T00:00:00",
+      "longlat": "50.182884,-5.43968",
+      "maxSpeed": 80.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z52505652",
+    "price": "\u00a3595,000\n\n\n\n\n\n\n\n                Offers in region of",
+    "rooms": "4 bedrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/0be67c561002b0c81ca84131c3379eddce719fa5.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/52505652"
+  },
+  {
+    "blurb": "Offering fantastic far reaching views from St Ives Bay to St Agnes Beacon is this superb four bedroom detached house with enclosed gardens, a garage and parking. It benefits from a purpose built studio/hobbies room complete with its own shower room. ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Wheal Buller, Redruth TR16",
+      "firstlisted": "2020-08-03T00:00:00",
+      "longlat": "50.214118,-5.229355",
+      "maxSpeed": 62,
+      "postcode": "TR16 6SS",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z55730114",
+    "price": "\u00a3425,000",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f0a91d35721fd2f47c9ca6e1f471c8a0ae40a60c.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55730114"
+  },
+  {
+    "blurb": "Beautiful four-bedroomed detached house in the highly sought-after rural hamlet of Bolingey, near Perranporth. Offering spacious contemporary living accommodation set over three storeys, including a superb 28\u2019 living room with (truncated)",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Hendrawna Lane, Bolingey, Perranporth, Cornwall TR6",
+      "firstlisted": "2020-09-23T00:00:00",
+      "longlat": "50.337748,-5.144346",
+      "maxSpeed": 51.5,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55710780",
+    "price": "\u00a3525,000",
+    "rooms": "4 bedrooms, 3 bathrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/d8aae0c4124ee63cb8e3462e7eb052cd77758c12.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55710780"
+  },
+  {
+    "blurb": "***Detached Non Estate Home*** Elevated Position With Far Reaching Views*** Building Plot For Potential Separate Dwelling ***Modern Contemporary Living Throughout*** Superb Open Plan Kitchen Dining Room With Wood Burning Stove*** Bi Folding Doors ...",
+    "description": "3 bed detached bungalow for sale",
+    "details": {
+      "address": "Rye Hill, Ponsanooth, Truro TR3",
+      "firstlisted": "2020-09-22T00:00:00",
+      "longlat": "50.195522,-5.143455",
+      "maxSpeed": 77,
+      "postcode": "TR3 7ES",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z55640576",
+    "price": "\u00a3500,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "3 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/b3f26215b8156bc32d5a5a5e7f357bf770f584f8.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55640576"
+  },
+  {
+    "blurb": "A substantial five-bedroom detached family house in Truro on the Knoll Park development with private gardens, double garage and over 2900sqft+",
+    "description": "5 bed detached house for sale",
+    "details": {
+      "address": "Knoll Park, Truro, Cornwall TR1",
+      "firstlisted": "2020-07-03T00:00:00",
+      "longlat": "50.262948,-5.034022",
+      "maxSpeed": 80.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55391433",
+    "price": "\u00a3550,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "5 bedrooms, 4 bathrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/eae4da153d63e0aacd35a3716ddcb4c80b4b7dc1.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55391433"
+  },
+  {
+    "blurb": "***stunning detached property situated on an extremity generous plot*** A superbly presented modern house with fantastic spacious accommodation and low maintenance gardens to the rear. Modern well equipped kitchen, 2 conservatories, sitting room, 2nd ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Nampara Close, Carbis Bay, St. Ives TR26",
+      "firstlisted": "2020-10-16T00:00:00",
+      "longlat": "50.196059,-5.458412",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55072439",
+    "price": "\u00a3599,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 4 bathrooms, 4 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/5a08f706b25d166663980c58778df3e9343925fa.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55072439"
+  },
+  {
+    "blurb": "Nearing completion is this wonderful spacious family home which has been constructed to provide generous 4 bedroom accommodation, 2 reception rooms, fitted kitchen and utility room. Down stairs cloakroom and a family bathroom on the first floor. The ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-06-29T00:00:00",
+      "longlat": "50.193396,-5.461723",
+      "maxSpeed": 79.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z54466682",
+    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f5299c7d4161821fc61e044740499ebc8f11707f.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/54466682"
+  },
+  {
+    "blurb": "*** A fantastic opportunity to purchase A large family home with an income generating flat/annexe and beautiful far reaching views *** Viewing Highly Recommended to appreciate the size and potential of this four/five bedroom, two reception room, two ...",
+    "description": "5 bed detached house for sale",
+    "details": {
+      "address": "East Hill, Blackwater Truro TR4",
+      "firstlisted": "2020-02-04T00:00:00",
+      "longlat": "50.276878,-5.171858",
+      "maxSpeed": 79.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z52859079",
+    "price": "\u00a3590,000",
+    "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/e063e3dac866bdc6c1ce2eed8488144045142aa7.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/52859079"
+  }
+]

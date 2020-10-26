@@ -8,13 +8,7 @@ import urllib
 
 import postcode
 
-def fetch_details(url, dom):
-    r = requests.get(url)
-    if r.status_code != 200:
-        raise Error('couldn\'t load details url ' + url)
-
-    detailSoup = BeautifulSoup(r.text, 'html.parser')
-
+def fetch_legacy_details(detailSoup):
     details = {}
 
     details['address'] = detailSoup.find(class_='property-header-bedroom-and-price').find('address').text.strip()
@@ -30,7 +24,6 @@ def fetch_details(url, dom):
     else:
         raise Exception('unable to find listing date for "%s"'%url)
     
-
     # grab the long-lat
     mapTag = detailSoup.find('a', class_='js-ga-minimap').find('img')
     if mapTag:
@@ -50,6 +43,46 @@ def fetch_details(url, dom):
         else:
             print('couldnt find postcode for', url)
         break
+
+    return details
+
+
+def fetch_details(url, dom):
+    r = requests.get(url)
+    if r.status_code != 200:
+        raise Error('couldn\'t load details url ' + url)
+
+    detailSoup = BeautifulSoup(r.text, 'html.parser')
+
+    details = {}
+
+    for script in detailSoup.find_all('script'):
+        if not script.string:
+            continue
+        rawJs = script.string.strip()
+        if not rawJs.startswith('window.PAGE_MODEL = '):
+            continue
+
+        jsonModel = rawJs[20:]
+        pageModel = json.loads(jsonModel)
+        propDom = pageModel['propertyData']
+        
+        details['address'] = propDom['address']['displayAddress']
+        
+        firstlisted = propDom['listingHistory']['listingUpdateReason'].split(' ')[-1]
+        if firstlisted == 'today':
+            details['firstlisted'] = datetime.datetime.today().isoformat()
+        else:
+            details['firstlisted'] = datetime.datetime.strptime(firstlisted, '%d/%m/%Y').isoformat()
+        details['firstlisted'] = details['firstlisted'].split('.')[0]
+
+        details['longlat'] = '%f,%f' % (propDom['location']['latitude'], propDom['location']['longitude'])
+
+        details['postcode'] = pageModel['analyticsInfo']['analyticsProperty']['postcode']
+        break
+
+    if 'address' not in details:
+        details = fetch_legacy_details(detailSoup)
 
     # go look up the bb speed
     if 'postcode' in details:
@@ -165,7 +198,7 @@ def get_all_properties(url, existing):
 
 if __name__ == '__main__':
     RMV_TRURO_20MILES = r'https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E1365&minBedrooms=3&maxPrice=650000&minPrice=450000&radius=20.0&sortType=6&propertyTypes=bungalow%2Cdetached%2Cpark-home&includeSSTC=false&mustHave=parking&dontShow=newHome%2Cretirement%2CsharedOwnership&furnishTypes=&keywords='
-    properties = get_all_properties(RMV_TRURO_20MILES, {})
+    properties,newproperties = get_all_properties(RMV_TRURO_20MILES, {})
 
     # uniquify
     unique = []
