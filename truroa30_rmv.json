@@ -1,19 +1,35 @@
 [
   {
-    "address": "Bolenowe Lane, Troon, Camborne",
-    "blurb": "Situated within the beauty of cornwall\u2019s countryside is this detached farmhouse set centrally within land of four acres arranged as formal gardens, amenity land and paddocks providing a rural and private retreat. perfect for the family looking for a rural smallholding, there are four bed...",
-    "description": "4 bedroom house for sale",
+    "address": "Penrose Meadows, Goonhavern",
+    "blurb": "Detached high specification 4 bedroom family home under construction in the village of goonhavern on a select development of just 8 detached houses with private drives and surrounding gardens",
+    "description": "4 bedroom detached house for sale",
     "details": {
-      "address": "Bolenowe Lane, Troon, Camborne",
-      "firstlisted": "2020-10-05T00:00:00",
-      "longlat": "50.200676,-5.263899",
-      "maxSpeed": 1000,
-      "postcode": "TR14 9HP"
+      "address": "Penrose Meadows, Goonhavern",
+      "firstlisted": "2020-10-26T14:23:38",
+      "longlat": "50.340442,-5.101476",
+      "maxSpeed": 330,
+      "postcode": "TR4 9QF"
     },
-    "id": "R73844532",
-    "price": "\u00a3650,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/73844532/168611_10541349_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73844532.html"
+    "id": "R98985272",
+    "price": "\u00a3555,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/46k/45185/98985272/45185_30133313_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-98985272.html"
+  },
+  {
+    "address": "Little Gregwartha, Four lanes",
+    "blurb": "3 double bedroom detached bungalow with 2 acres of unspoilt land, large outbuilding & detached 1 bed accommodation, set in the heart of this very popular village and close to all amenities.",
+    "description": "3 bedroom detached bungalow for sale",
+    "details": {
+      "address": "Little Gregwartha, Four lanes",
+      "firstlisted": "2020-10-27T00:00:00",
+      "longlat": "50.200316,-5.239811",
+      "maxSpeed": 80,
+      "postcode": "TR16 6LN"
+    },
+    "id": "R99056993",
+    "price": "\u00a3499,950 Guide Price",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/40k/39689/99056993/39689_102915041655_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-99056993.html"
   },
   {
     "address": "Penrose Meadows, Goonhavern",
@@ -115,27 +131,6 @@
     "price": "\u00a3545,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/46k/45185/74512611/45185_30121115_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-74512611.html"
-  },
-  {
-    "id": "R93912686",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "address": "Fiddlers Green, St. Newlyn East, Newquay, Cornwall, TR8",
-    "blurb": "This delightful four double bedroom detached cottage, with private rear garden and orchard, has a spacious lounge, separate dining room, kitchen with oil fired rayburn, utility/shower room, and bathroom. upvc double glazing and oil fired central heating has recently been fitted, and there is an a...",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Fiddlers Green, St. Newlyn East, Newquay, Cornwall, TR8",
-      "firstlisted": "2020-10-21T00:00:00",
-      "longlat": "50.352310,-5.065690",
-      "maxSpeed": 330,
-      "postcode": "TR8 5NJ"
-    },
-    "id": "R74508534",
-    "price": "\u00a3400,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/5k/4974/74508534/4974_NEY180295_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-74508534.html"
   },
   {
     "address": "Stamps Lane, Redruth",
@@ -345,22 +340,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-74144358.html"
   },
   {
-    "address": "Penrose Meadows, Goonhavern, Truro",
-    "blurb": "Detached high specification 4 bedroom family home under construction in the village of goonhavern on a select development of just 8 detached houses with private drives and surrounding gardens",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Penrose Meadows, Goonhavern, Truro",
-      "firstlisted": "2020-10-21T00:00:00",
-      "longlat": "50.340442,-5.101476",
-      "maxSpeed": 330,
-      "postcode": "TR4 9QF"
-    },
-    "id": "R74512611",
-    "price": "\u00a3545,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/46k/45185/74512611/45185_30121115_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-74512611.html"
-  },
-  {
     "address": "Knoll Park, Truro, Cornwall, TR1",
     "blurb": "A substantial five-bedroom detached family house in truro on the knoll park development with private gardens, double garage and over 2900sqft+",
     "description": "5 bedroom detached house for sale",
@@ -375,6 +354,22 @@
     "price": "\u00a3550,000 Offers in Excess of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48638/81522850/48638_TRS190116_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-81522850.html"
+  },
+  {
+    "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+    "blurb": "This picturesque 3 bedroom, one en-suite detached character cottage is set amidst beautifully landscaped gardens together with an area of woodland just a short walk to the park and playing fields. epc rating e.",
+    "description": "3 bedroom cottage for sale",
+    "details": {
+      "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+      "firstlisted": "2020-09-30T00:00:00",
+      "longlat": "50.516680,-4.826900",
+      "maxSpeed": 330,
+      "postcode": "PL27 6AL"
+    },
+    "id": "R97822487",
+    "price": "\u00a3535,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97822487/3915_WB3435_IMG_00_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97822487.html"
   },
   {
     "address": "Centrally Located Detached Dormer Bungalow",
@@ -537,20 +532,20 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-97982789.html"
   },
   {
-    "address": "Kenidjack Close, Carbis Bay, St. Ives, Cornwall",
-    "blurb": "Stunning 3 bed detached bungalow walking distance to beach set in the sought-after location of the seaward side of carbis bay, walking distance to carbis bay beach, local amenities and train links to london, this superb three-bedroom detached bungalow has a lot to offer with a stunning ...",
-    "description": "3 bedroom bungalow for sale",
+    "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+    "blurb": "This picturesque 3 bedroom, one en-suite detached character cottage is set amidst beautifully landscaped gardens together with an area of woodland just a short walk to the park and playing fields. epc rating e.",
+    "description": "3 bedroom cottage for sale",
     "details": {
-      "address": "Kenidjack Close, Carbis Bay, St. Ives, Cornwall",
-      "firstlisted": "2020-10-02T00:00:00",
-      "longlat": "50.194515,-5.458803",
-      "maxSpeed": 75,
-      "postcode": "TR26 2LP"
+      "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
+      "firstlisted": "2020-09-30T00:00:00",
+      "longlat": "50.516680,-4.826900",
+      "maxSpeed": 330,
+      "postcode": "PL27 6AL"
     },
-    "id": "R85395472",
-    "price": "\u00a3475,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/44k/43067/85395472/43067_STI200122_IMG_02_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-85395472.html"
+    "id": "R97822487",
+    "price": "\u00a3535,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97822487/3915_WB3435_IMG_00_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-97822487.html"
   },
   {
     "address": "Carn Arthen, Carn Brea, Redruth",
@@ -745,11 +740,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-84203875.html"
   },
   {
-    "id": "R85814440",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "address": "Perranwell Station, Nr. Truro, Cornwall",
     "blurb": "For sale for the first time in 48 years a superbly positioned and well maintained detached 3 bedroomed residence set at the end of a private driveway in an acutely sought after prestigious cul de sac at perranwell station. occupying well planted gardens extending to approx. \u00bd of an acre...",
     "description": "3 bedroom detached house for sale",
@@ -764,6 +754,22 @@
     "price": "\u00a3650,000 Offers in Region of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/73265103/32489_8203_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-73265103.html"
+  },
+  {
+    "address": "Higher Carnarthen Farm, Brea, Camborne, Cornwall, TR14",
+    "blurb": "Situated in a rural setting, boasting stunning panoramic views over the countryside and on to the coast. this versatile detached farmhouse offers a large living room measuring nearly 7 meters in length, dining room, kitchen, conservatory, 3 bathrooms, 5 bedrooms and the ability to incorporate a s...",
+    "description": "5 bedroom detached house for sale",
+    "details": {
+      "address": "Higher Carnarthen Farm, Brea, Camborne, Cornwall, TR14",
+      "firstlisted": "2020-10-22T00:00:00",
+      "longlat": "50.211910,-5.268920",
+      "maxSpeed": 330,
+      "postcode": "TR14 9AY"
+    },
+    "id": "R74548923",
+    "price": "\u00a3450,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/703/74548923/703_CAO200169_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-74548923.html"
   },
   {
     "address": "Penhalls Way, Playing Place",
@@ -876,11 +882,6 @@
     "price": "\u00a3450,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/710/83348098/710_SAG190181_IMG_15_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83348098.html"
-  },
-  {
-    "id": "R84812396",
-    "reason": "unbuilt",
-    "skipped": true
   },
   {
     "address": "St. Pirans Hill, Perranwell Station, Nr. Truro",
@@ -1079,22 +1080,6 @@
     "skipped": true
   },
   {
-    "address": "Higher Carnarthen Farm, Brea, Camborne, Cornwall, TR14",
-    "blurb": "Situated in a rural setting, boasting stunning panoramic views over the countryside and on to the coast. this versatile detached farmhouse offers a large living room measuring nearly 7 meters in length, dining room, kitchen, conservatory, 3 bathrooms, 5 bedrooms and the ability to incorporate a s...",
-    "description": "5 bedroom detached house for sale",
-    "details": {
-      "address": "Higher Carnarthen Farm, Brea, Camborne, Cornwall, TR14",
-      "firstlisted": "2020-10-22T00:00:00",
-      "longlat": "50.211910,-5.268920",
-      "maxSpeed": 330,
-      "postcode": "TR14 9AY"
-    },
-    "id": "R74548923",
-    "price": "\u00a3450,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/703/74548923/703_CAO200169_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-74548923.html"
-  },
-  {
     "id": "R95544782",
     "reason": "unbuilt",
     "skipped": true
@@ -1114,6 +1099,11 @@
     "price": "\u00a3450,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/96k/95647/82877986/95647_101412009202_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-82877986.html"
+  },
+  {
+    "id": "R72262002",
+    "reason": "internet",
+    "skipped": true
   },
   {
     "address": "The Saltings, Lelant, St Ives, West Cornwall ",
