@@ -5,13 +5,13 @@ ZOOPLA_QUERY = r'https://www.zoopla.co.uk/for-sale/property/truro/?beds_min=3&is
 ZOOPLA_FILE = 'truroa30_zpl.json'
 ZOOPLA_RECENT_FILE = 'truroa30_zpl_recent.json'
 
-RTMOVE_QUERY = r'https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=USERDEFINEDAREA%5E%7B%22id%22%3A6179886%7D&minBedrooms=3&maxPrice=650000&minPrice=400000&sortType=6&propertyTypes=bungalow%2Cdetached%2Cpark-home&includeSSTC=false&mustHave=parking&dontShow=newHome%2Cretirement%2CsharedOwnership&furnishTypes=&keywords='
+RTMOVE_QUERY = r'https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=USERDEFINEDAREA%5E%7B"id"%3A6179886%7D&minBedrooms=3&maxPrice=650000&minPrice=400000&sortType=6&propertyTypes=bungalow%2Cdetached%2Cpark-home&includeSSTC=false&mustHave=parking&dontShow=newHome%2Cretirement%2CsharedOwnership&furnishTypes=&keywords='
 RTMOVE_FILE = 'truroa30_rmv.json'
 RTMOVE_RECENT_FILE = 'truroa30_rmv_recent.json'
 
 
 # TODO: this can probably be scraped from RTMOVE_QUERY -- although might require login 
-SEARCH_AREA_STATICMAP = r'https://maps.google.com/maps/api/staticmap?center=50.28710,-5.14939&size=75x75&path=color%3A0x000099FF%7Cweight%3A2%7Cfillcolor%3A0x00009977%7Cenc%3Ai_gqHpcu%5EoWcmNsyDs%60EeoCoyCgjAgYaV%7B_BoWs%60D%7BeBkwBwWq%7BBsdCj%60Bz%60%40ngDq%7DH_q%40qbFyxQgjGlGctMopFgl%40%7DyLe_HdpBdsCrkO%60yK%7CuIl%7EKp%7CAvxDneO%7D%5DzhMnaFxfCaa%40d%7CDloBf_Jh%7DFydGdoGniWmk%40r_Mv%7BG%60oTheIsrHeo%40clRynEkkT%7Cq%40imI&scale=1&client=gme-rightmove&sensor=false&channel=defineyourarea&signature=mxAUoMnbvSAU3BafuB1V7zVcZ5o='
+SEARCH_AREA_STATICMAP = r'https://maps.google.com/maps/api/staticmap?center=50.28529,-5.14618&size=75x75&path=color%3A0x000099FF%7Cweight%3A2%7Cfillcolor%3A0x00009977%7Cenc%3AubsqHniw%5D%7Ba%40nXi%5Eyc%40_xAobCke%40ouCwWq%7BBsdCj%60Bz%60%40ngDq%7DH_q%40qbFyxQixGalWwfBthFxtBxjPctMopFgl%40%7DyLe_HdpBdsCrkO%60yK%7CuIl%7EKn%7CAvxDpeO%7D%5DxhMnaFzfCaa%40d%7CDloBf_Jh%7DFydGdoGniWmk%40r_Mv%7BG%60oTvwG%7EEbbBow%40dpAslAt%5Ee%7CEkbEubEgRw_KynEkkT%7Cq%40imIveCwpL_uB%7BdF%7BbFcWkgB%7DnD%7DfAkyA&scale=1&client=gme-rightmove&sensor=false&channel=defineyourarea&signature=0QYImrMIcyP25wFIlE45QSIPWW0='
 SEARCH_AREA = map.extract_path_from_staticmap(SEARCH_AREA_STATICMAP)
 
 
