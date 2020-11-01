@@ -1,5 +1,60 @@
 [
   {
+    "id": "Z56794527",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56793118",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56026944",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56786848",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56784559",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56784327",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56784290",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56779532",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56774581",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56770068",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56769774",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56766318",
     "reason": "location",
     "skipped": true
@@ -134,27 +189,12 @@
     "skipped": true
   },
   {
-    "id": "Z56692378",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56679306",
     "reason": "internet",
     "skipped": true
   },
   {
-    "id": "Z56678451",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56678117",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56678027",
     "reason": "location",
     "skipped": true
   },
@@ -165,11 +205,6 @@
   },
   {
     "id": "Z56668869",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56668850",
     "reason": "location",
     "skipped": true
   },
@@ -429,12 +464,12 @@
     "skipped": true
   },
   {
-    "id": "Z56391436",
+    "id": "Z56391437",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56391437",
+    "id": "Z56391436",
     "reason": "location",
     "skipped": true
   },
@@ -465,6 +500,11 @@
   },
   {
     "id": "Z56367650",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56365942",
     "reason": "location",
     "skipped": true
   },
@@ -605,6 +645,11 @@
     "skipped": true
   },
   {
+    "id": "Z56238092",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56237752",
     "reason": "people",
     "skipped": true
@@ -632,11 +677,6 @@
   {
     "id": "Z56206910",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56201604",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -697,11 +737,6 @@
     "skipped": true
   },
   {
-    "id": "Z56136488",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56133141",
     "reason": "location",
     "skipped": true
@@ -723,7 +758,7 @@
   },
   {
     "id": "Z56110834",
-    "reason": "location",
+    "reason": "internet",
     "skipped": true
   },
   {
@@ -822,7 +857,7 @@
   },
   {
     "id": "Z56002109",
-    "reason": "location",
+    "reason": "internet",
     "skipped": true
   },
   {
@@ -903,9 +938,21 @@
     "skipped": true
   },
   {
+    "blurb": "*An immaculate and meticulously maintained, extended 1930\u2019s detached residence set in glorious well-stocked gardens in a tucked away corner on the edge of the historic town of Penryn. *Spacious versatile accommodation, including five or six bedrooms ...",
+    "description": "6 bed detached house for sale",
+    "details": {
+      "address": "Dunvegan Road, Penryn TR10",
+      "firstlisted": "2020-08-13T00:00:00",
+      "longlat": "50.171708,-5.114025",
+      "maxSpeed": 77.6,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
     "id": "Z55873026",
-    "reason": "location",
-    "skipped": true
+    "price": "\u00a3485,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "6 bedrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f616d2836a8d9474fc1fab6078676d186eba6486.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55873026"
   },
   {
     "id": "Z55869462",
@@ -943,9 +990,21 @@
     "skipped": true
   },
   {
+    "blurb": "We are delighted to offer as the developers sole agents, this superb brand new four bedroom detached residence set in a great location in the centre of this well served popular village at Mabe and commanding far reaching views across the countryside ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Church Road, Mabe Burnthouse, Penryn TR10",
+      "firstlisted": "2020-08-07T00:00:00",
+      "longlat": "50.163945,-5.132267",
+      "maxSpeed": 80.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
     "id": "Z55796638",
-    "reason": "location",
-    "skipped": true
+    "price": "\u00a3435,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms, 2 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/e5256497f7b15d8415d7cbbb5ee56a1214acc2c8.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55796638"
   },
   {
     "id": "Z55791199",
@@ -965,11 +1024,6 @@
   {
     "id": "Z55738005",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z50326387",
-    "reason": "location",
     "skipped": true
   },
   {
@@ -1018,12 +1072,7 @@
   },
   {
     "id": "Z55693828",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55689679",
-    "reason": "location",
+    "reason": "internet",
     "skipped": true
   },
   {
@@ -1084,6 +1133,11 @@
     "skipped": true
   },
   {
+    "id": "Z55552771",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
     "id": "Z55546479",
     "reason": "location",
     "skipped": true
@@ -1104,11 +1158,6 @@
     "skipped": true
   },
   {
-    "id": "Z55525923",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55524634",
     "reason": "location",
     "skipped": true
@@ -1120,6 +1169,11 @@
   },
   {
     "id": "Z55522340",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55511316",
     "reason": "location",
     "skipped": true
   },
@@ -1192,358 +1246,7 @@
   },
   {
     "id": "Z55384815",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55325600",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z55325262",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55321601",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55317867",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55317160",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55316144",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55274547",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55265071",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55265073",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55265055",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55265049",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z55265044",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z55228385",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55184253",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55164839",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55146718",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z54005934",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z50646002",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "blurb": "***stunning detached property situated on an extremity generous plot*** A superbly presented modern house with fantastic spacious accommodation and low maintenance gardens to the rear. Modern well equipped kitchen, 2 conservatories, sitting room, 2nd ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Nampara Close, Carbis Bay, St. Ives TR26",
-      "firstlisted": "2020-10-16T00:00:00",
-      "longlat": "50.196059,-5.458412",
-      "maxSpeed": 55.0,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55072439",
-    "price": "\u00a3599,000\n\n\n\n\n\n\n\n                Offers over",
-    "rooms": "4 bedrooms, 4 bathrooms, 4 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/5a08f706b25d166663980c58778df3e9343925fa.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55072439"
-  },
-  {
-    "id": "Z55045364",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54441644",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54659382",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z54606210",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54605308",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54532472",
-    "reason": "unbuilt",
-    "skipped": true
-  },
-  {
-    "id": "Z54532470",
-    "reason": "unbuilt",
-    "skipped": true
-  },
-  {
-    "id": "Z54532395",
-    "reason": "unbuilt",
-    "skipped": true
-  },
-  {
-    "id": "Z54532394",
-    "reason": "unbuilt",
-    "skipped": true
-  },
-  {
-    "id": "Z54566374",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z54564412",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "blurb": "Nearing completion is this wonderful spacious family home which has been constructed to provide generous 4 bedroom accommodation, 2 reception rooms, fitted kitchen and utility room. Down stairs cloakroom and a family bathroom on the first floor. The ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Carbis Bay, St. Ives, Cornwall TR26",
-      "firstlisted": "2020-06-29T00:00:00",
-      "longlat": "50.193396,-5.461723",
-      "maxSpeed": 79.9,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z54466682",
-    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Offers over",
-    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/f5299c7d4161821fc61e044740499ebc8f11707f.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/54466682"
-  },
-  {
-    "id": "Z54169089",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54169074",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54154974",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54117056",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z54087013",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z54043472",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z53695148",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z53483906",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z53176160",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z53073743",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z52973795",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z52954790",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z52868043",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "blurb": "*** A fantastic opportunity to purchase A large family home with an income generating flat/annexe and beautiful far reaching views *** Viewing Highly Recommended to appreciate the size and potential of this four/five bedroom, two reception room, two ...",
-    "description": "5 bed detached house for sale",
-    "details": {
-      "address": "East Hill, Blackwater Truro TR4",
-      "firstlisted": "2020-02-04T00:00:00",
-      "longlat": "50.276878,-5.171858",
-      "maxSpeed": 79.9,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z52859079",
-    "price": "\u00a3590,000",
-    "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/e063e3dac866bdc6c1ce2eed8488144045142aa7.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/52859079"
-  },
-  {
-    "id": "Z52856047",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z52702808",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z52379202",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z52240275",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z51762661",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z51751184",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z51604727",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z51444678",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z51308732",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z43695223",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z51000584",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z49236387",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z49167750",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z48726477",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z46792727",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z28376591",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z28241746",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z28220802",
-    "reason": "people",
     "skipped": true
   }
 ]
