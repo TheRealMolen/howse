@@ -5,6 +5,38 @@
     "skipped": true
   },
   {
+    "address": "Kittiwake Close, Saltings Reach, Hayle, Cornwall, TR27",
+    "blurb": "The five bedroom, three bathroom, gas centrally heated and double glazed house is well presented. there is an entrance hallway with stairs, storage, a study and a utility room/downstairs cloakroom. the lounge is triple aspect opening in to a dining area with full length glazing. the easily mainta...",
+    "description": "5 bedroom detached house for sale",
+    "details": {
+      "address": "Kittiwake Close, Saltings Reach, Hayle, Cornwall, TR27",
+      "firstlisted": "2020-10-06T00:00:00",
+      "longlat": "50.176820,-5.443448",
+      "maxSpeed": 330,
+      "postcode": "TR27 6GL"
+    },
+    "id": "R73872849",
+    "price": "\u00a3450,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/712/73872849/712_STI200120_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-73872849.html"
+  },
+  {
+    "address": "Round Ring Gardens, Penryn",
+    "blurb": "*** detached executive home*** sought after development on the st gluvias side of penryn*** updated, reconfigured and improved by the current owners*** high standard of finish throughout*** stunning 34 foot open plan kitchen dining family room*** upgraded high gloss kitchen with granite working ...",
+    "description": "4 bedroom house for sale",
+    "details": {
+      "address": "Round Ring Gardens, Penryn",
+      "firstlisted": "2020-07-17T00:00:00",
+      "longlat": "50.173786,-5.104048",
+      "maxSpeed": 330,
+      "postcode": "TR10 9DE"
+    },
+    "id": "R94984229",
+    "price": "\u00a3495,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61588/94984229/61588_29817576_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-94984229.html"
+  },
+  {
     "address": "Kerkin Close, Goonhavern, Truro, Cornwall, TR4",
     "blurb": "Beautiful architect designed four bedroomed detached house in a lovely semi-rural location on the outskirts of goonhavern, near perranporth. offering superb contemporary family living accommodation including entrance hall, fabulous open plan kitchen/diner/family area, living room, utility room, f...",
     "description": "4 bedroom detached house for sale",
@@ -288,22 +320,6 @@
   },
   {
     "address": "St. Allen",
-    "blurb": "Impressive grade ii listed former manor farmhouse retaining original features and now requiring updating and improvement throughout. 4 receptions, kitchen/dining room, 5 bedrooms. double garage. appealing grounds. 2 paddocks. 3.5 acres",
-    "description": "5 bedroom detached house for sale",
-    "details": {
-      "address": "St. Allen",
-      "firstlisted": "2020-10-16T00:00:00",
-      "longlat": "50.298973,-5.068877",
-      "maxSpeed": 330,
-      "postcode": "TR4 9QU"
-    },
-    "id": "R85917355",
-    "price": "\u00a3550,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/85917355/35507_30107415_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-85917355.html"
-  },
-  {
-    "address": "St. Allen",
     "blurb": "An impressive grade ii listed former manor farmhouse retaining a number of original features and now requiring updating and improvement throughout. 4 reception rooms, kitchen/dining room, 5 bedrooms. double garage. appealing grounds. (2 paddocks available)",
     "description": "5 bedroom detached house for sale",
     "details": {
@@ -317,6 +333,22 @@
     "price": "\u00a3500,000 Offers in Excess of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/85868713/35507_30107419_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-85868713.html"
+  },
+  {
+    "address": "St. Allen",
+    "blurb": "Impressive grade ii listed former manor farmhouse retaining original features and now requiring updating and improvement throughout. 4 receptions, kitchen/dining room, 5 bedrooms. double garage. appealing grounds. 2 paddocks. 3.5 acres",
+    "description": "5 bedroom detached house for sale",
+    "details": {
+      "address": "St. Allen",
+      "firstlisted": "2020-10-16T00:00:00",
+      "longlat": "50.298973,-5.068877",
+      "maxSpeed": 330,
+      "postcode": "TR4 9QU"
+    },
+    "id": "R85917355",
+    "price": "\u00a3550,000 Guide Price",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/36k/35507/85917355/35507_30107415_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-85917355.html"
   },
   {
     "address": "Nampara Close, St. Ives, TR26",
@@ -333,6 +365,11 @@
     "price": "\u00a3599,000 Offers in Excess of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/80441122/151103_552567-1_IMG_22_0001_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-80441122.html"
+  },
+  {
+    "id": "R95626649",
+    "reason": "internet",
+    "skipped": true
   },
   {
     "address": "Chapel Hill, Bolingey, Perranporth, TR6",
@@ -365,22 +402,6 @@
     "price": "\u00a3575,000 Guide Price",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/712/85824532/712_STI200104_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-85824532.html"
-  },
-  {
-    "address": "Marazion, Nr. Penzance - Mounts Bay, Cornwall",
-    "blurb": "A quintessential large detached 4 bedroomed, 2 bathroomed period house, currently loosely divided to provide separate wing with gardens, small period outbuildings and first floor views across mounts bay with parking, a garage and small copse just a few yards away. ",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Marazion, Nr. Penzance - Mounts Bay, Cornwall",
-      "firstlisted": "2020-10-28T00:00:00",
-      "longlat": "50.124770,-5.468086",
-      "maxSpeed": 80,
-      "postcode": "TR17 0AY"
-    },
-    "id": "R74719425",
-    "price": "\u00a3585,000 Offers in Region of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/74719425/32489_8250_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-74719425.html"
   },
   {
     "id": "R85814440",
@@ -418,22 +439,6 @@
     "price": "\u00a3430,000 Offers in Excess of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/169k/168611/72185121/168611_10368421_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-72185121.html"
-  },
-  {
-    "address": "Gwelanmor Road, Carbis Bay, St. Ives",
-    "blurb": "A 3 bedroom detached bungalow with outstanding sea views a superbly presented and modernised 3 bedroom detached bungalow, with parking, is found on the prestigious seaward side of carbis bay, with stunning sea and countryside views over carbis bay, from st ives to godrevy lighthouse and...",
-    "description": "3 bedroom bungalow for sale",
-    "details": {
-      "address": "Gwelanmor Road, Carbis Bay, St. Ives",
-      "firstlisted": "2020-10-06T00:00:00",
-      "longlat": "50.195219,-5.464412",
-      "maxSpeed": 78,
-      "postcode": "TR26 2JZ"
-    },
-    "id": "R73923138",
-    "price": "\u00a3450,000 Offers in Excess of",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/44k/43067/73923138/43067_STI200134_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73923138.html"
   },
   {
     "address": "Truro, Cornwall",
@@ -562,22 +567,6 @@
     "price": "\u00a3550,000 Offers in Region of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/73886916/151103_959757-1_IMG_21_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-73886916.html"
-  },
-  {
-    "address": "Kittiwake Close, Saltings Reach, Hayle, Cornwall, TR27",
-    "blurb": "The five bedroom, three bathroom, gas centrally heated and double glazed house is well presented. there is an entrance hallway with stairs, storage, a study and a utility room/downstairs cloakroom. the lounge is triple aspect opening in to a dining area with full length glazing. the easily mainta...",
-    "description": "5 bedroom detached house for sale",
-    "details": {
-      "address": "Kittiwake Close, Saltings Reach, Hayle, Cornwall, TR27",
-      "firstlisted": "2020-10-06T00:00:00",
-      "longlat": "50.176820,-5.443448",
-      "maxSpeed": 330,
-      "postcode": "TR27 6GL"
-    },
-    "id": "R73872849",
-    "price": "\u00a3450,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/712/73872849/712_STI200120_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73872849.html"
   },
   {
     "address": "Fuggoe Croft, Carbis Bay, St. Ives, Cornwall",
@@ -746,19 +735,19 @@
   },
   {
     "address": "Penrose Meadows, Goonhavern",
-    "blurb": "Detached high specification 4 bedroom family home under construction in the village of goonhavern on a select development of just 8 detached houses with private drives and surrounding gardens",
-    "description": "4 bedroom detached house for sale",
+    "blurb": "Large detached 5 bedroom 241 sqm family home under construction in the village of goonhavern on a corner plot situated on this select development of just 8 detached houses with private drives and surrounding gardens",
+    "description": "5 bedroom detached house for sale",
     "details": {
       "address": "Penrose Meadows, Goonhavern",
-      "firstlisted": "2020-10-26T14:23:38",
+      "firstlisted": "2020-10-23T00:00:00",
       "longlat": "50.340442,-5.101476",
       "maxSpeed": 330,
       "postcode": "TR4 9QF"
     },
-    "id": "R98985272",
-    "price": "\u00a3555,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/46k/45185/98985272/45185_30133313_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-98985272.html"
+    "id": "R74585865",
+    "price": "\u00a3635,000 ",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/46k/45185/74585865/45185_30129404_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-74585865.html"
   },
   {
     "address": "Chapel Hill, Truro",
@@ -873,22 +862,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-78263806.html"
   },
   {
-    "address": "Park Leven, Illogan, Redruth",
-    "blurb": "This immaculately presented executive style detached house is situated in a popular residential area and benefits from four bedrooms (2 en-suite), a lounge, fitted kitchen/diner, utility, wrap-around conservatory and family bathroom. the property is complemented by solar panels, gas central heat...",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Park Leven, Illogan, Redruth",
-      "firstlisted": "2020-09-07T00:00:00",
-      "longlat": "50.240211,-5.262042",
-      "maxSpeed": 80,
-      "postcode": "TR16 4GA"
-    },
-    "id": "R73029285",
-    "price": "\u00a3499,000 Guide Price",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/92k/91925/73029285/91925_29977185_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-73029285.html"
-  },
-  {
     "address": "College Way, Truro",
     "blurb": "Four bedroom detached family home for sale in college way, gloweth, truro",
     "description": "4 bedroom detached house for sale",
@@ -969,6 +942,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83348098.html"
   },
   {
+    "address": "Demelza, St. Austell *** NO ONWARD CHAIN ***",
+    "blurb": "Fantastic countryside home within a totally rural location with no near neighbours yet a short drive from the amnenities, a30, & the coast. a fantastic permanent residence, 2nd home or holiday let given its location, enjoying 4 double bedrooms, 2 of which have en-suite facilities & a furt...",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Demelza, St. Austell *** NO ONWARD CHAIN ***",
+      "firstlisted": "2020-08-21T00:00:00",
+      "longlat": "50.426392,-4.841959",
+      "maxSpeed": 330,
+      "postcode": "PL26 8NL"
+    },
+    "id": "R81056449",
+    "price": "\u00a3450,000 Offers in Region of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/65k/64422/81056449/64422_10281428_IMG_30_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-81056449.html"
+  },
+  {
     "address": "St. Pirans Hill, Perranwell Station, Nr. Truro",
     "blurb": " a light, bright, airy and spaciou four bedroom detached dormer bungalow found in the heart of the village in a non estate position. beautifully presented with superb gardens. driveway parking and a garage. guided video tour available.",
     "description": "4 bedroom detached bungalow for sale",
@@ -983,6 +972,22 @@
     "price": "\u00a3515,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/57k/56940/83805430/56940_9482341_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83805430.html"
+  },
+  {
+    "address": "Crembling Well, Barncoose, Redruth TR15 3EA",
+    "blurb": "Re- available due to chain not property! - sitting on the balcony sipping your morning coffee taking in the valley view's, this property has so much to give! if your looking for space inside and out, this definitely ticks all these boxes.",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Crembling Well, Barncoose, Redruth TR15 3EA",
+      "firstlisted": "2020-08-20T00:00:00",
+      "longlat": "50.230300,-5.250920",
+      "maxSpeed": 80,
+      "postcode": "TR15 3EA"
+    },
+    "id": "R72649458",
+    "price": "\u00a3400,000 Offers in Excess of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/200k/199979/72649458/199979_31545_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-72649458.html"
   },
   {
     "address": "Perranwell Station, Nr. Truro, Cornwall",
@@ -1129,6 +1134,22 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-83129212.html"
   },
   {
+    "address": "Marazion, Nr. Penzance - Mounts Bay, Cornwall",
+    "blurb": "A quintessential large detached 4 bedroomed, 2 bathroomed period house, currently loosely divided to provide separate wing with gardens, small period outbuildings and first floor views across mounts bay with parking, a garage and small copse just a few yards away. ",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Marazion, Nr. Penzance - Mounts Bay, Cornwall",
+      "firstlisted": "2020-10-28T00:00:00",
+      "longlat": "50.124770,-5.468086",
+      "maxSpeed": 80,
+      "postcode": "TR17 0AY"
+    },
+    "id": "R74719425",
+    "price": "\u00a3585,000 Offers in Region of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/74719425/32489_8250_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-74719425.html"
+  },
+  {
     "address": "Prospect Place, Copperhouse, Hayle, Cornwall, TR27",
     "blurb": "A chalet style bungalow with four bedrooms plus a separate two bedroom annexe. set on a hillside plot with views to the towans. the property has been recently modernised and includes a conservatory, lounge, kitchen diner three bedrooms, two en-suite plus a family bathroom. there is also a two be...",
     "description": "4 bedroom bungalow for sale",
@@ -1143,22 +1164,6 @@
     "price": "\u00a3475,000 Offers in Excess of",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/1k/712/78178609/712_STI200037_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-78178609.html"
-  },
-  {
-    "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
-    "blurb": "This picturesque 3 bedroom, one en-suite detached character cottage is set amidst beautifully landscaped gardens together with an area of woodland just a short walk to the park and playing fields. epc rating e.",
-    "description": "3 bedroom cottage for sale",
-    "details": {
-      "address": "Trenant Vale, Wadebridge, Cornwall, PL27",
-      "firstlisted": "2020-09-30T00:00:00",
-      "longlat": "50.516680,-4.826900",
-      "maxSpeed": 330,
-      "postcode": "PL27 6AL"
-    },
-    "id": "R97822487",
-    "price": "\u00a3535,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/97822487/3915_WB3435_IMG_00_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-97822487.html"
   },
   {
     "id": "R95626649",
@@ -1232,22 +1237,6 @@
     "price": "\u00a3650,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/33k/32489/72059451/32489_8132_IMG_01_0000_max_476x317.jpg",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-72059451.html"
-  },
-  {
-    "address": "Round Ring Gardens, Penryn",
-    "blurb": "*** detached executive home*** sought after development on the st gluvias side of penryn*** updated, reconfigured and improved by the current owners*** high standard of finish throughout*** stunning 34 foot open plan kitchen dining family room*** upgraded high gloss kitchen with granite working ...",
-    "description": "4 bedroom house for sale",
-    "details": {
-      "address": "Round Ring Gardens, Penryn",
-      "firstlisted": "2020-07-17T00:00:00",
-      "longlat": "50.173786,-5.104048",
-      "maxSpeed": 330,
-      "postcode": "TR10 9DE"
-    },
-    "id": "R94984229",
-    "price": "\u00a3495,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/62k/61588/94984229/61588_29817576_IMG_01_0000_max_476x317.jpg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-94984229.html"
   },
   {
     "address": "Dobbs Lane, , Truro, Cornwall",
@@ -1378,11 +1367,6 @@
     "url": "https://www.rightmove.co.uk/property-for-sale/property-80230036.html"
   },
   {
-    "id": "R72015777",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "address": "Vellanoweth, Ludgvan",
     "blurb": "**unexpectedly re available**\nan incredibly exciting opportunity to purchase this delightful detached cottage steeped in history and offering an abundance of character and charm. set within peaceful surroundings, adjoining open farmland and being well secluded within this popular hamlet. the acco...",
     "description": "3 bedroom detached house for sale",
@@ -1466,22 +1450,6 @@
     "price": "\u00a3590,000 ",
     "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/152k/151103/74378839/151103_821592-1_IMG_01_0000_max_476x317.JPG",
     "url": "https://www.rightmove.co.uk/property-for-sale/property-74378839.html"
-  },
-  {
-    "address": "Hill Park, Wadebridge, Cornwall, PL27",
-    "blurb": "A substantial 4 bedroom (one en-suite) detached contemporary modern home which features a super reversed accommodation layout together with a magnificent dual aspect living room with balcony off. epc rating c.",
-    "description": "4 bedroom detached house for sale",
-    "details": {
-      "address": "Hill Park, Wadebridge, Cornwall, PL27",
-      "firstlisted": "2020-10-30T00:00:00",
-      "longlat": "50.518362,-4.827845",
-      "maxSpeed": 330,
-      "postcode": "PL27 6UL"
-    },
-    "id": "R99158240",
-    "price": "\u00a3475,000 ",
-    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/4k/3915/99158240/3915_wb3459_IMG_13_0000_max_476x317.jpeg",
-    "url": "https://www.rightmove.co.uk/property-for-sale/property-99158240.html"
   },
   {
     "id": "R72411276",

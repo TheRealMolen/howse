@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "address": "Demelza, St. Austell *** NO ONWARD CHAIN ***",
+    "blurb": "Fantastic countryside home within a totally rural location with no near neighbours yet a short drive from the amnenities, a30, & the coast. a fantastic permanent residence, 2nd home or holiday let given its location, enjoying 4 double bedrooms, 2 of which have en-suite facilities & a furt...",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Demelza, St. Austell *** NO ONWARD CHAIN ***",
+      "firstlisted": "2020-08-21T00:00:00",
+      "longlat": "50.426392,-4.841959",
+      "maxSpeed": 330,
+      "postcode": "PL26 8NL"
+    },
+    "id": "R81056449",
+    "price": "\u00a3450,000 Offers in Region of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/65k/64422/81056449/64422_10281428_IMG_30_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-81056449.html"
+  },
+  {
+    "address": "Crembling Well, Barncoose, Redruth TR15 3EA",
+    "blurb": "Re- available due to chain not property! - sitting on the balcony sipping your morning coffee taking in the valley view's, this property has so much to give! if your looking for space inside and out, this definitely ticks all these boxes.",
+    "description": "4 bedroom detached house for sale",
+    "details": {
+      "address": "Crembling Well, Barncoose, Redruth TR15 3EA",
+      "firstlisted": "2020-08-20T00:00:00",
+      "longlat": "50.230300,-5.250920",
+      "maxSpeed": 80,
+      "postcode": "TR15 3EA"
+    },
+    "id": "R72649458",
+    "price": "\u00a3400,000 Offers in Excess of",
+    "thumb": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/200k/199979/72649458/199979_31545_IMG_01_0000_max_476x317.jpg",
+    "url": "https://www.rightmove.co.uk/property-for-sale/property-72649458.html"
+  }
+]

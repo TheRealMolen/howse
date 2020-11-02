@@ -60,11 +60,6 @@
     "skipped": true
   },
   {
-    "id": "Z56761825",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56744064",
     "reason": "location",
     "skipped": true
@@ -185,6 +180,11 @@
   },
   {
     "id": "Z56692420",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56692378",
     "reason": "location",
     "skipped": true
   },
@@ -341,23 +341,6 @@
     "id": "Z56519851",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "A 3 bedroom detached bungalow with outstanding sea views A superbly presented and modernised 3 bedroom detached bungalow, with parking, is found on the prestigious seaward side of Carbis Bay, with stunning sea and countryside views over Carbis Bay, ...",
-    "description": "3 bed detached bungalow for sale",
-    "details": {
-      "address": "Gwelanmor Road, Carbis Bay, St. Ives TR26",
-      "firstlisted": "2020-10-12T00:00:00",
-      "longlat": "50.195262,-5.464325",
-      "maxSpeed": 76.2,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z56505871",
-    "price": "\u00a3450,000\n\n\n\n\n\n\n\n                Offers over",
-    "rooms": "3 bedrooms, 1 bathroom, 1 reception room",
-    "thumb": "https://lid.zoocdn.com/354/255/6d6864c560ea4457c85235ed852c15f0f8288a85.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56505871"
   },
   {
     "id": "Z56504768",
@@ -715,23 +698,6 @@
     "skipped": true
   },
   {
-    "blurb": "This immaculately presented executive style detached house is situated in a popular residential area and benefits from four bedrooms (2 En-Suite), a lounge, fitted kitchen/diner, utility, wrap-around conservatory and family bathroom. The property is ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Park Leven, Illogan, Redruth TR16",
-      "firstlisted": "2020-09-07T00:00:00",
-      "longlat": "50.240211,-5.262042",
-      "maxSpeed": 76.4,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z56146221",
-    "price": "\u00a3499,000\n\n\n\n\n\n\n\n                Guide price",
-    "rooms": "4 bedrooms, 3 bathrooms, 1 reception room",
-    "thumb": "https://lid.zoocdn.com/354/255/0731bbabab79566ad73cbd78d3f3663c9d578f36.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56146221"
-  },
-  {
     "id": "Z56144831",
     "reason": "internet",
     "skipped": true
@@ -874,6 +840,23 @@
     "id": "Z55959321",
     "reason": "internet",
     "skipped": true
+  },
+  {
+    "blurb": "Re- available due to chain not property! - Sitting on the balcony sipping your morning coffee taking in the valley view's, this property has so much to give! If your looking for space inside and out, this definitely ticks all these boxes.",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Crembling Well, Barncoose, Redruth TR15",
+      "firstlisted": "2020-08-20T00:00:00",
+      "longlat": "50.2303,-5.25092",
+      "maxSpeed": 80.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55955926",
+    "price": "\u00a3400,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/6c916ff7c8e7adeaab2784db388c0686195835c2.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55955926"
   },
   {
     "id": "Z55949288",
@@ -1113,11 +1096,6 @@
     "skipped": true
   },
   {
-    "id": "Z54629690",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "id": "Z55586098",
     "reason": "location",
     "skipped": true
@@ -1247,6 +1225,386 @@
   {
     "id": "Z55384815",
     "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z55325600",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z55325262",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55321601",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55317867",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z55317160",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55316144",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55274547",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z55265071",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55265073",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55265055",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55265049",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z55265044",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "blurb": "Fantastic countryside home within a totally rural location with no near neighbours yet a short drive from the amnenities, A30, & the coast. A fantastic permanent residence, 2nd home or holiday let given its location, enjoying 4 double bedrooms, 2 of ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Roche, St. Austell PL26",
+      "firstlisted": "2020-08-21T00:00:00",
+      "longlat": "50.426392,-4.841959",
+      "maxSpeed": 330,
+      "postcode": "PL26 8NL",
+      "source": "bb-speed-wangler"
+    },
+    "id": "Z55233747",
+    "price": "\u00a3450,000\n\n\n\n\n\n\n\n                Offers in region of",
+    "rooms": "4 bedrooms, 3 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/1b43c6e0a69425ee9f548d3b58053cb36f0be64a.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55233747"
+  },
+  {
+    "id": "Z55228385",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55184253",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55164839",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55146718",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z54005934",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z50646002",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "***stunning detached property situated on an extremity generous plot*** A superbly presented modern house with fantastic spacious accommodation and low maintenance gardens to the rear. Modern well equipped kitchen, 2 conservatories, sitting room, 2nd ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Nampara Close, Carbis Bay, St. Ives TR26",
+      "firstlisted": "2020-10-16T00:00:00",
+      "longlat": "50.196059,-5.458412",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55072439",
+    "price": "\u00a3599,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 4 bathrooms, 4 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/5a08f706b25d166663980c58778df3e9343925fa.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55072439"
+  },
+  {
+    "id": "Z55045364",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54441644",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54659382",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z54606210",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54605308",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54594823",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54532470",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "Z54532472",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "Z54532395",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "Z54532394",
+    "reason": "unbuilt",
+    "skipped": true
+  },
+  {
+    "id": "Z54566374",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "blurb": "A charming and extremely well presented Grade II Listed detached residence, set in an elevated position enjoying views across the historic market town of Penryn, offering spacious accommodation over 3 storeys including 6 bedrooms, 2 with en-suite ...",
+    "description": "6 bed detached house for sale",
+    "details": {
+      "address": "College Hill, Penryn TR10",
+      "firstlisted": "2020-03-13T00:00:00",
+      "longlat": "50.167064,-5.111122",
+      "maxSpeed": 55.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z54564412",
+    "price": "\u00a3535,000",
+    "rooms": "6 bedrooms, 1 bathroom, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/5aaae4fc86f4a9982c74aa22e79d26d6631209d9.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/54564412"
+  },
+  {
+    "blurb": "Nearing completion is this wonderful spacious family home which has been constructed to provide generous 4 bedroom accommodation, 2 reception rooms, fitted kitchen and utility room. Down stairs cloakroom and a family bathroom on the first floor. The ...",
+    "description": "4 bed detached house for sale",
+    "details": {
+      "address": "Carbis Bay, St. Ives, Cornwall TR26",
+      "firstlisted": "2020-06-29T00:00:00",
+      "longlat": "50.193396,-5.461723",
+      "maxSpeed": 79.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z54466682",
+    "price": "\u00a3575,000\n\n\n\n\n\n\n\n                Offers over",
+    "rooms": "4 bedrooms, 2 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f5299c7d4161821fc61e044740499ebc8f11707f.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/54466682"
+  },
+  {
+    "id": "Z56782148",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54191854",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54154974",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z54117056",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z54087013",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z54043472",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z53695148",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z53483906",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z53176160",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z53073743",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z52973795",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z52954790",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z52868043",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "blurb": "*** A fantastic opportunity to purchase A large family home with an income generating flat/annexe and beautiful far reaching views *** Viewing Highly Recommended to appreciate the size and potential of this four/five bedroom, two reception room, two ...",
+    "description": "5 bed detached house for sale",
+    "details": {
+      "address": "East Hill, Blackwater Truro TR4",
+      "firstlisted": "2020-02-04T00:00:00",
+      "longlat": "50.276878,-5.171858",
+      "maxSpeed": 79.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z52859079",
+    "price": "\u00a3590,000",
+    "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/e063e3dac866bdc6c1ce2eed8488144045142aa7.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/52859079"
+  },
+  {
+    "id": "Z52702808",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z52379202",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z52240275",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z51762661",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z51751184",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z51604727",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z51444678",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z51308732",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z43695223",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z51000584",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z49236387",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z49167750",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z48726477",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z46792727",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z28376591",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z28241746",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z28220802",
+    "reason": "people",
     "skipped": true
   }
 ]
