@@ -1,5 +1,37 @@
 [
   {
+    "id": "Z56847514",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56844523",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "A Three bedroom detached bungalow situated in this quiet location yet within close proximity to amenities located down an unmade lane. (contd...)",
+    "description": "3 bed bungalow for sale",
+    "details": {
+      "address": "St Agnes, Truro, Cornwall TR5",
+      "firstlisted": "2020-11-05T00:00:00",
+      "longlat": "50.312823,-5.204722",
+      "maxSpeed": 68.1,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56840301",
+    "price": "\u00a3525,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "3 bedrooms, 1 bathroom, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/a059d38c216854e4fa5e6af415f13e0d2e46893e.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56840301"
+  },
+  {
+    "id": "Z56823356",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56794527",
     "reason": "people",
     "skipped": true
@@ -60,6 +92,11 @@
     "skipped": true
   },
   {
+    "id": "Z56750812",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56744064",
     "reason": "location",
     "skipped": true
@@ -82,17 +119,7 @@
     "url": "https://zoopla.co.uk/for-sale/details/56742005"
   },
   {
-    "id": "Z56740008",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56737481",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z56735026",
     "reason": "people",
     "skipped": true
   },
@@ -147,31 +174,9 @@
     "skipped": true
   },
   {
-    "id": "Z56706155",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "id": "Z56702884",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "Situated in a rural setting, boasting stunning panoramic views over the countryside and on to the coast. (contd...)",
-    "description": "5 bed detached house for sale",
-    "details": {
-      "address": "Brea, Camborne, Cornwall TR14",
-      "firstlisted": "2020-10-22T00:00:00",
-      "longlat": "50.211979,-5.268877",
-      "maxSpeed": 330,
-      "postcode": "TR14 9AY",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z56694381",
-    "price": "\u00a3450,000",
-    "rooms": "5 bedrooms, 2 bathrooms, 2 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/b581d47688d8903a4e8ad06569764faf233c3865.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/56694381"
   },
   {
     "id": "Z56734733",
@@ -226,11 +231,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/56662412"
   },
   {
-    "id": "Z56660596",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56648407",
     "reason": "location",
     "skipped": true
@@ -238,11 +238,6 @@
   {
     "id": "Z56638826",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56638730",
-    "reason": "internet",
     "skipped": true
   },
   {
@@ -276,11 +271,6 @@
     "rooms": "5 bedrooms, 2 bathrooms, 2 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/f560214175b3f3fb6b9052449bfe42d5d4e471af.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56616396"
-  },
-  {
-    "id": "Z56615750",
-    "reason": "internet",
-    "skipped": true
   },
   {
     "id": "Z56596570",
@@ -417,18 +407,8 @@
     "skipped": true
   },
   {
-    "id": "Z56442867",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z56442438",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56436880",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -447,12 +427,12 @@
     "skipped": true
   },
   {
-    "id": "Z56391437",
+    "id": "Z56391436",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56391436",
+    "id": "Z56391437",
     "reason": "location",
     "skipped": true
   },
@@ -608,11 +588,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/56276437"
   },
   {
-    "id": "Z56273684",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56256402",
     "reason": "location",
     "skipped": true
@@ -658,11 +633,6 @@
     "skipped": true
   },
   {
-    "id": "Z56206910",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56195568",
     "reason": "people",
     "skipped": true
@@ -678,17 +648,7 @@
     "skipped": true
   },
   {
-    "id": "Z56178470",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56176823",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56172110",
     "reason": "location",
     "skipped": true
   },
@@ -700,11 +660,6 @@
   {
     "id": "Z56144831",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z56133141",
-    "reason": "location",
     "skipped": true
   },
   {
@@ -859,11 +814,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/55955926"
   },
   {
-    "id": "Z55949288",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z55944313",
     "reason": "location",
     "skipped": true
@@ -894,11 +844,6 @@
     "skipped": true
   },
   {
-    "id": "Z55919117",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "blurb": "An extremely well presented and immaculately looked after 4 bedroom detached home located in one of the most sought after roads within the popular estuary village of Lelant. Offering spacious accommodation internally including a large master bedroom ...",
     "description": "4 bed detached house for sale",
     "details": {
@@ -919,23 +864,6 @@
     "id": "Z55883661",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "*An immaculate and meticulously maintained, extended 1930\u2019s detached residence set in glorious well-stocked gardens in a tucked away corner on the edge of the historic town of Penryn. *Spacious versatile accommodation, including five or six bedrooms ...",
-    "description": "6 bed detached house for sale",
-    "details": {
-      "address": "Dunvegan Road, Penryn TR10",
-      "firstlisted": "2020-08-13T00:00:00",
-      "longlat": "50.171708,-5.114025",
-      "maxSpeed": 77.6,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z55873026",
-    "price": "\u00a3485,000\n\n\n\n\n\n\n\n                Guide price",
-    "rooms": "6 bedrooms",
-    "thumb": "https://lid.zoocdn.com/354/255/f616d2836a8d9474fc1fab6078676d186eba6486.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55873026"
   },
   {
     "id": "Z55869462",
@@ -990,6 +918,11 @@
     "url": "https://zoopla.co.uk/for-sale/details/55796638"
   },
   {
+    "id": "Z55791319",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z55791199",
     "reason": "people",
     "skipped": true
@@ -1007,11 +940,6 @@
   {
     "id": "Z55738005",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z55737430",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1121,18 +1049,8 @@
     "skipped": true
   },
   {
-    "id": "Z55519858",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55532846",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55528063",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1156,18 +1074,8 @@
     "skipped": true
   },
   {
-    "id": "Z55471091",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55470974",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55456244",
-    "reason": "internet",
     "skipped": true
   },
   {
@@ -1206,6 +1114,11 @@
     "skipped": true
   },
   {
+    "id": "Z51462180",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "blurb": "A substantial five-bedroom detached family house in Truro on the Knoll Park development with private gardens, double garage and over 2900sqft+",
     "description": "5 bed detached house for sale",
     "details": {
@@ -1228,6 +1141,11 @@
     "skipped": true
   },
   {
+    "id": "Z55377463",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z55325600",
     "reason": "internet",
     "skipped": true
@@ -1240,6 +1158,11 @@
   {
     "id": "Z55321601",
     "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z55318491",
+    "reason": "people",
     "skipped": true
   },
   {
@@ -1305,11 +1228,6 @@
     "url": "https://zoopla.co.uk/for-sale/details/55233747"
   },
   {
-    "id": "Z55228385",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z55184253",
     "reason": "location",
     "skipped": true
@@ -1317,11 +1235,6 @@
   {
     "id": "Z55164839",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55146718",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1466,11 +1379,6 @@
     "skipped": true
   },
   {
-    "id": "Z54043472",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z53695148",
     "reason": "people",
     "skipped": true
@@ -1501,11 +1409,6 @@
     "skipped": true
   },
   {
-    "id": "Z52868043",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "blurb": "*** A fantastic opportunity to purchase A large family home with an income generating flat/annexe and beautiful far reaching views *** Viewing Highly Recommended to appreciate the size and potential of this four/five bedroom, two reception room, two ...",
     "description": "5 bed detached house for sale",
     "details": {
@@ -1521,11 +1424,6 @@
     "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
     "thumb": "https://lid.zoocdn.com/354/255/e063e3dac866bdc6c1ce2eed8488144045142aa7.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/52859079"
-  },
-  {
-    "id": "Z52702808",
-    "reason": "people",
-    "skipped": true
   },
   {
     "id": "Z52379202",
@@ -1570,11 +1468,6 @@
   {
     "id": "Z51000584",
     "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z49236387",
-    "reason": "location",
     "skipped": true
   },
   {
