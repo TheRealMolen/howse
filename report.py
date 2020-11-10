@@ -4,7 +4,10 @@ from datetime import datetime
 def gen_html(properties):
     html = """<!DOCTYPE html>
     <html>
-    <head>
+    <head profile="http://www.w3.org/2005/10/profile">
+        <link rel="icon" 
+            type="image/png" 
+            href="https://therealmolen.github.io/howse/favicon.png">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>maybe howses</title>
@@ -12,8 +15,9 @@ def gen_html(properties):
     </head>
     <body>
         <div class="container">
-            <div class="jumbotron">
-                <h1 class="display-4">maybe howses by the sea</h1>
+            <div class="row p-3 m-2 mb-4" style="background:#f7f7f9">
+                <h1 class="display-4 col-auto my-auto">maybe howses by the sea</h1>
+                <img src="https://therealmolen.github.io/howse/favicon.png" class="col-2" width="160">
             </div>\n
     """
 

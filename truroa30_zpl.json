@@ -1,5 +1,59 @@
 [
   {
+    "id": "Z56894404",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56894161",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "Offering comfortable family living accommodation including a large dual aspect living room, dining room, well-appointed kitchen, separate utility, family bathroom, additional shower room/wc, and four good-sized bedrooms. Outside, there is a (truncated)",
+    "description": "4 bed country house for sale",
+    "details": {
+      "address": "Halt Road, Goonhavern, Truro TR4",
+      "firstlisted": "2020-11-10T00:00:00",
+      "longlat": "50.342074,-5.108391",
+      "maxSpeed": 51.9,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56891573",
+    "price": "\u00a3475,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms",
+    "thumb": "https://lid.zoocdn.com/354/255/897a577f8f8e055c8e6ab15258b8241984fadd29.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56891573"
+  },
+  {
+    "blurb": "Offering generous and versatile family living accommodation including a large dual aspect living room, open plan kitchen/diner, home office/play room, superb master bedroom with en-suite shower/wc, and four additional bedrooms. Outside there (truncated)",
+    "description": "5 bed country house for sale",
+    "details": {
+      "address": "Carriage Parc, Goonhavern, Truro TR4",
+      "firstlisted": "2020-11-10T00:00:00",
+      "longlat": "50.341324,-5.11135",
+      "maxSpeed": 75.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56891333",
+    "price": "\u00a3525,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "5 bedrooms, 3 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/bbb9e0b872b1db53a8f8b62c37d7eef047247857.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56891333"
+  },
+  {
+    "id": "Z56888847",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56887161",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56883499",
     "reason": "location",
     "skipped": true
@@ -49,11 +103,6 @@
   {
     "id": "Z56874005",
     "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z56873902",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -437,11 +486,6 @@
     "skipped": true
   },
   {
-    "id": "Z55391028",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z56487371",
     "reason": "location",
     "skipped": true
@@ -516,12 +560,12 @@
     "skipped": true
   },
   {
-    "id": "Z56391437",
+    "id": "Z56391436",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56391436",
+    "id": "Z56391437",
     "reason": "location",
     "skipped": true
   },
@@ -532,6 +576,11 @@
   },
   {
     "id": "Z56386040",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56380300",
     "reason": "location",
     "skipped": true
   },
@@ -763,11 +812,6 @@
   },
   {
     "id": "Z56094061",
-    "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z56074919",
     "reason": "people",
     "skipped": true
   },
@@ -1108,11 +1152,6 @@
     "skipped": true
   },
   {
-    "id": "Z55552771",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "id": "Z55546479",
     "reason": "location",
     "skipped": true
@@ -1162,11 +1201,6 @@
   {
     "id": "Z55470974",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55443513",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1237,11 +1271,6 @@
     "skipped": true
   },
   {
-    "id": "Z55318491",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z55317867",
     "reason": "internet",
     "skipped": true
@@ -1254,6 +1283,11 @@
   {
     "id": "Z55316144",
     "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z55280831",
+    "reason": "location",
     "skipped": true
   },
   {
@@ -1280,23 +1314,6 @@
     "id": "Z55265044",
     "reason": "people",
     "skipped": true
-  },
-  {
-    "blurb": "Fantastic countryside home within a totally rural location with no near neighbours yet a short drive from the amnenities, A30, & the coast. A fantastic permanent residence, 2nd home or holiday let given its location, enjoying 4 double bedrooms, 2 of ...",
-    "description": "4 bed detached house for sale",
-    "details": {
-      "address": "Roche, St. Austell PL26",
-      "firstlisted": "2020-08-21T00:00:00",
-      "longlat": "50.426392,-4.841959",
-      "maxSpeed": 330,
-      "postcode": "PL26 8NL",
-      "source": "bb-speed-wangler"
-    },
-    "id": "Z55233747",
-    "price": "\u00a3450,000\n\n\n\n\n\n\n\n                Offers in region of",
-    "rooms": "4 bedrooms, 3 bathrooms, 1 reception room",
-    "thumb": "https://lid.zoocdn.com/354/255/1b43c6e0a69425ee9f548d3b58053cb36f0be64a.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/55233747"
   },
   {
     "id": "Z55184253",
@@ -1366,11 +1383,6 @@
     "skipped": true
   },
   {
-    "id": "Z54532470",
-    "reason": "unbuilt",
-    "skipped": true
-  },
-  {
     "id": "Z54532472",
     "reason": "unbuilt",
     "skipped": true
@@ -1426,11 +1438,6 @@
   },
   {
     "id": "Z56782148",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z54191854",
     "reason": "location",
     "skipped": true
   },

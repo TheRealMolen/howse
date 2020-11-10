@@ -72,7 +72,7 @@ def fetch_details(url, dom):
         firstlisted = propDom['listingHistory']['listingUpdateReason'].split(' ')[-1]
         if firstlisted.lower() == 'today':
             details['firstlisted'] = datetime.datetime.today().isoformat()
-        if firstlisted.lower() == 'yesterday':
+        elif firstlisted.lower() == 'yesterday':
             details['firstlisted'] = (datetime.datetime.today() - datetime.timedelta(days=1)).isoformat()
         else:
             details['firstlisted'] = datetime.datetime.strptime(firstlisted, '%d/%m/%Y').isoformat()
