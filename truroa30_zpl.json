@@ -1,5 +1,109 @@
 [
   {
+    "id": "Z56883499",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56882524",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56878729",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "Nestled within a good-sized garden plot, we believe it's impossible to appreciate all that our client's family home has to offer from a simple kerbside view. From the moment you cross the threshold and into the 17' long hall, you'll appreciate a home ...",
+    "description": "6 bed detached house for sale",
+    "details": {
+      "address": "Park Leven, Illogan, Redruth TR16",
+      "firstlisted": "2020-11-09T00:00:00",
+      "longlat": "50.240211,-5.262043",
+      "maxSpeed": 76.4,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56878538",
+    "price": "\u00a3575,000",
+    "rooms": "6 bedrooms, 4 bathrooms, 3 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/f5bd5b645bfdf376ba19af1a6bae4cb70c2cb4c4.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56878538"
+  },
+  {
+    "id": "Z56877842",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56876266",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56876219",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56874005",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
+    "id": "Z56873902",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56862366",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "blurb": "The property offers light and airy accommodation with a stylish modern interior comprising in brief of an entrance hallway, open plan lounge/dining/kitchen with utility area off, 2 ground floor bedrooms and shower room. (contd...)",
+    "description": "4 bed bungalow for sale",
+    "details": {
+      "address": "Lelant, St.Ives, Cornwall TR26",
+      "firstlisted": "2020-11-06T00:00:00",
+      "longlat": "50.186496,-5.439323",
+      "maxSpeed": 68.0,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z56861610",
+    "price": "\u00a3500,000\n\n\n\n\n\n\n\n                Guide price",
+    "rooms": "4 bedrooms, 2 bathrooms, 1 reception room",
+    "thumb": "https://lid.zoocdn.com/354/255/697a1d3f098b1ba9c1c401a1cb260e4739a258b8.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/56861610"
+  },
+  {
+    "id": "Z56857137",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56855256",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56855117",
+    "reason": "people",
+    "skipped": true
+  },
+  {
+    "id": "Z56853035",
+    "reason": "location",
+    "skipped": true
+  },
+  {
+    "id": "Z56852763",
+    "reason": "location",
+    "skipped": true
+  },
+  {
     "id": "Z56847514",
     "reason": "people",
     "skipped": true
@@ -38,11 +142,6 @@
   },
   {
     "id": "Z56793118",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56026944",
     "reason": "location",
     "skipped": true
   },
@@ -117,11 +216,6 @@
     "rooms": "3 bedrooms, 2 bathrooms, 1 reception room",
     "thumb": "https://lid.zoocdn.com/354/255/f8005778543a2979f4aa0ca44b01c02d55bfb06c.jpg",
     "url": "https://zoopla.co.uk/for-sale/details/56742005"
-  },
-  {
-    "id": "Z56737481",
-    "reason": "people",
-    "skipped": true
   },
   {
     "id": "Z56732077",
@@ -293,11 +387,6 @@
     "skipped": true
   },
   {
-    "id": "Z56553354",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
     "id": "Z56551841",
     "reason": "location",
     "skipped": true
@@ -427,12 +516,12 @@
     "skipped": true
   },
   {
-    "id": "Z56391436",
+    "id": "Z56391437",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56391437",
+    "id": "Z56391436",
     "reason": "location",
     "skipped": true
   },
@@ -443,11 +532,6 @@
   },
   {
     "id": "Z56386040",
-    "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56380300",
     "reason": "location",
     "skipped": true
   },
@@ -479,11 +563,6 @@
   {
     "id": "Z56351492",
     "reason": "people",
-    "skipped": true
-  },
-  {
-    "id": "Z56344916",
-    "reason": "internet",
     "skipped": true
   },
   {
@@ -588,6 +667,11 @@
     "url": "https://zoopla.co.uk/for-sale/details/56276437"
   },
   {
+    "id": "Z56273684",
+    "reason": "internet",
+    "skipped": true
+  },
+  {
     "id": "Z56256402",
     "reason": "location",
     "skipped": true
@@ -608,28 +692,13 @@
     "skipped": true
   },
   {
-    "id": "Z56237752",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z56232566",
     "reason": "location",
     "skipped": true
   },
   {
-    "id": "Z56208874",
-    "reason": "people",
-    "skipped": true
-  },
-  {
     "id": "Z56208654",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z56206888",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -772,7 +841,7 @@
     "skipped": true
   },
   {
-    "id": "Z56004236",
+    "id": "Z56004604",
     "reason": "internet",
     "skipped": true
   },
@@ -1074,12 +1143,24 @@
     "skipped": true
   },
   {
-    "id": "Z55470974",
-    "reason": "location",
-    "skipped": true
+    "blurb": "A luxury executive four bedroom detached residence, cleverly designed for modern day and comfortable living. This brand new house sits on a good size level plot and an internal viewing is highly recommended to appreciate. The spacious accommodation ...",
+    "description": "4 bed property for sale",
+    "details": {
+      "address": "St. Georges Road, Hayle TR27",
+      "firstlisted": "2020-07-11T00:00:00",
+      "longlat": "50.18364,-5.412239",
+      "maxSpeed": 79.7,
+      "source": "Ofcom",
+      "speedClass": "Superfast broadband"
+    },
+    "id": "Z55483027",
+    "price": "\u00a3475,000",
+    "rooms": "4 bedrooms, 3 bathrooms, 2 reception rooms",
+    "thumb": "https://lid.zoocdn.com/354/255/3a9588e8fa249a023ee6944e764ebcaf2462daa5.jpg",
+    "url": "https://zoopla.co.uk/for-sale/details/55483027"
   },
   {
-    "id": "Z55449097",
+    "id": "Z55470974",
     "reason": "location",
     "skipped": true
   },
@@ -1096,11 +1177,6 @@
   {
     "id": "Z55440834",
     "reason": "location",
-    "skipped": true
-  },
-  {
-    "id": "Z55435883",
-    "reason": "people",
     "skipped": true
   },
   {
@@ -1181,17 +1257,12 @@
     "skipped": true
   },
   {
-    "id": "Z55274547",
-    "reason": "internet",
-    "skipped": true
-  },
-  {
-    "id": "Z55265071",
+    "id": "Z55265073",
     "reason": "people",
     "skipped": true
   },
   {
-    "id": "Z55265073",
+    "id": "Z55265071",
     "reason": "people",
     "skipped": true
   },
@@ -1384,11 +1455,6 @@
     "skipped": true
   },
   {
-    "id": "Z53483906",
-    "reason": "location",
-    "skipped": true
-  },
-  {
     "id": "Z53176160",
     "reason": "people",
     "skipped": true
@@ -1407,23 +1473,6 @@
     "id": "Z52954790",
     "reason": "location",
     "skipped": true
-  },
-  {
-    "blurb": "*** A fantastic opportunity to purchase A large family home with an income generating flat/annexe and beautiful far reaching views *** Viewing Highly Recommended to appreciate the size and potential of this four/five bedroom, two reception room, two ...",
-    "description": "5 bed detached house for sale",
-    "details": {
-      "address": "East Hill, Blackwater Truro TR4",
-      "firstlisted": "2020-02-04T00:00:00",
-      "longlat": "50.276878,-5.171858",
-      "maxSpeed": 79.9,
-      "source": "Ofcom",
-      "speedClass": "Superfast broadband"
-    },
-    "id": "Z52859079",
-    "price": "\u00a3590,000",
-    "rooms": "5 bedrooms, 3 bathrooms, 3 reception rooms",
-    "thumb": "https://lid.zoocdn.com/354/255/e063e3dac866bdc6c1ce2eed8488144045142aa7.jpg",
-    "url": "https://zoopla.co.uk/for-sale/details/52859079"
   },
   {
     "id": "Z52379202",
